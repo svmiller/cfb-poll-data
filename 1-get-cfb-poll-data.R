@@ -1,4 +1,4 @@
-setwd("~/Dropbox/data/ap-college-football-poll")
+setwd("~/Dropbox/data/cfb-poll-data")
 
 library(rvest)
 library(stringr)
