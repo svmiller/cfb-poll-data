@@ -64,16 +64,12 @@ Poll$fpv <- as.numeric(gsub("\\(|\\)", "", Poll$fpv))
 Poll$fixme <- gsub("PV Rank|Points", "", Poll$fixme)
 Poll$fixme <- NULL
 
-Poll$pv_rank <- c(1, 2, 5, 14, 16, 4, 12, 3, 22, 11, 10, 
-                  6, 7, "NR", 8, "NR", 9, "NR", "NR", "NR", 
-                  20, 15, 13, 19, 25)
-
 Poll$pv_rank <- NA
 
-cbs <- read_html("http://www.cbssports.com/collegefootball/rankings/ap")
-CBS = html_table(html_nodes(cbs, "table")[[1]])
+#cbs <- read_html("http://www.cbssports.com/collegefootball/rankings/ap")
+#CBS = html_table(html_nodes(cbs, "table")[[1]])
 
-Poll$points <- CBS$PTS
+#Poll$points <- CBS$PTS
 Poll$points <- NA
 
 Poll$week <- apweek
@@ -105,10 +101,15 @@ voters <- voters[-1]
 voterurl <- tolower(voters)
 voterurl <- gsub(" ", "-", voterurl)
 
+# Sorry, Mandy. Blame the AP's website.
+voterurl <- voterurl[voterurl != "mandy-mitchell"] 
+
 # Rank, Team, Record, Points, PV Rank, Voter
 
 AP <- Poll[,c(2,3,5,8,7)]
 AP$Voter <- "ap"
+
+
 
 for (k in voterurl) {
   url <- paste("http://collegefootball.ap.org/poll-voter/", k, sep="")
@@ -118,6 +119,12 @@ for (k in voterurl) {
   AP <- rbind(AP, poll)
 
 }
+
+mandy <- read_html("http://collegefootball.ap.org/taxonomy/term/177012")
+mandy <- html_table(html_nodes(mandy, "table")[[1]])
+mandy$Voter <- "mandy-mitchell"
+
+AP <- rbind(AP, mandy)
 
 AP$Team <- gsub(" *\\(.*?\\) *", "", AP$Team)
 AP$Points <- as.numeric(gsub(",", "", AP$Points))
