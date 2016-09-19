@@ -45,7 +45,7 @@ names(Poll) <- c("rank","fixme","team", "record")
 
 confs <- c("SEC","ACC","Big 12", "Big Ten",
            "Division I FBS Independents", 
-           "The American", "Pac-12")
+           "The American", "Pac-12", "Mountain West")
 
 conflist <- str_c(confs, collapse="|")
 Poll$conference <- unlist(str_extract_all(Poll$team, conflist))
@@ -102,7 +102,11 @@ voterurl <- tolower(voters)
 voterurl <- gsub(" ", "-", voterurl)
 
 # Sorry, Mandy. Blame the AP's website.
-voterurl <- voterurl[voterurl != "mandy-mitchell"] 
+#voterurl <- voterurl[voterurl != "mandy-mitchell"] 
+
+# Rob Long didn't submit one.
+#voterurl <- voterurl[voterurl != "rob-long"] 
+
 
 # Rank, Team, Record, Points, PV Rank, Voter
 
