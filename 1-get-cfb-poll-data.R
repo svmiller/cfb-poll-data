@@ -124,12 +124,6 @@ for (k in voterurl) {
 
 }
 
-mandy <- read_html("http://collegefootball.ap.org/taxonomy/term/177012")
-mandy <- html_table(html_nodes(mandy, "table")[[1]])
-mandy$Voter <- "mandy-mitchell"
-
-AP <- rbind(AP, mandy)
-
 AP$Team <- gsub(" *\\(.*?\\) *", "", AP$Team)
 AP$Points <- as.numeric(gsub(",", "", AP$Points))
 
@@ -148,7 +142,7 @@ apweek <- ifelse(apweek == "Pre-Season", 1, gsub("Week ","",apweek))
 
 library(reshape2)
 
-VoterWide <- dcast(AP, Team + Record + Points + Week ~ Voter, value.var = "Rank")
+VoterWide <- dcast(AP, Team + Record + Points + Week ~ Voter, value.var = 'Rank')
 VoterWide <- VoterWide[order(-VoterWide$Points),]
 VoterWide <- VoterWide[,c(1:4,8,5:7,9:ncol(VoterWide))]
 
