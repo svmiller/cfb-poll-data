@@ -45,7 +45,8 @@ names(Poll) <- c("rank","fixme","team", "record")
 
 confs <- c("SEC","ACC","Big 12", "Big Ten",
            "Division I FBS Independents", 
-           "The American", "Pac-12", "Mountain West")
+           "The American", "Pac-12", "Mountain West",
+           "Mid-American")
 
 conflist <- str_c(confs, collapse="|")
 Poll$conference <- unlist(str_extract_all(Poll$team, conflist))
