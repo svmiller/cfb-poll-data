@@ -105,8 +105,8 @@ voterurl <- gsub(" ", "-", voterurl)
 # Sorry, Mandy. Blame the AP's website.
 #voterurl <- voterurl[voterurl != "mandy-mitchell"] 
 
-# Rob Long didn't submit one.
-#voterurl <- voterurl[voterurl != "rob-long"] 
+# Marq Burnett didn't submit one.
+voterurl <- voterurl[voterurl != "marq-burnett"] 
 
 
 # Rank, Team, Record, Points, PV Rank, Voter
@@ -140,6 +140,7 @@ cat(gsub('\\bNA\\b', '  ', kable(cbind(Poll[,2:5],AP[1:25,c(5,4)]),
 AP$Week <- apweek
 
 apweek <- ifelse(apweek == "Pre-Season", 1, gsub("Week ","",apweek))
+apweek <- ifelse(apweek == "Final", 16, gsub("Week ","",apweek))
 
 library(reshape2)
 

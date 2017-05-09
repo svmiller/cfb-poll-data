@@ -1,0 +1,1526 @@
+"Rank","Team","Record","Points","PV.Rank","Voter","Week"
+1,"Clemson","14-1",1500,"3","ap",16
+2,"Alabama","14-1",1440,"1","ap",16
+3,"USC","10-3",1292,"9","ap",16
+4,"Washington","12-2",1277,"4","ap",16
+5,"Oklahoma","11-2",1252,"7","ap",16
+6,"Ohio State","11-2",1240,"2","ap",16
+7,"Penn State","11-3",1130,"5","ap",16
+8,"Florida State","10-3",1105,"10","ap",16
+9,"Wisconsin","11-3",1032,"8","ap",16
+10,"Michigan","10-3",1001,"6","ap",16
+11,"Oklahoma State","10-3",920,"13","ap",16
+12,"Stanford","10-3",730,"16","ap",16
+13,"LSU","8-4",651,"19","ap",16
+14,"Florida","9-4",640,"20","ap",16
+15,"Western Michigan","13-1",619,"12","ap",16
+16,"Virginia Tech","10-4",610,"18","ap",16
+17,"Colorado","10-4",585,"11","ap",16
+18,"West Virginia","10-3",368,"14","ap",16
+19,"South Florida","11-2",358,"25","ap",16
+20,"Miami","9-4",338,"-","ap",16
+21,"Louisville","9-4",277,"15","ap",16
+22,"Tennessee","9-4",253,"-","ap",16
+23,"Utah","9-4",222,"-","ap",16
+24,"Auburn","8-5",206,"17","ap",16
+25,"San Diego State","11-3",113,"-","ap",16
+1,"Clemson","14-1",1500,"3","adam-jude",16
+2,"Alabama","14-1",1440,"1","adam-jude",16
+3,"Washington","12-2",1277,"4","adam-jude",16
+4,"Ohio State","11-2",1240,"2","adam-jude",16
+5,"USC","10-3",1292,"9","adam-jude",16
+6,"Penn State","11-3",1130,"5","adam-jude",16
+7,"Oklahoma","11-2",1252,"7","adam-jude",16
+8,"Oklahoma State","10-3",920,"13","adam-jude",16
+9,"Florida State","10-3",1105,"10","adam-jude",16
+10,"Michigan","10-3",1001,"6","adam-jude",16
+11,"Wisconsin","11-3",1032,"8","adam-jude",16
+12,"Colorado","10-4",585,"11","adam-jude",16
+13,"Western Michigan","13-1",619,"12","adam-jude",16
+14,"South Florida","11-2",358,"25","adam-jude",16
+15,"Stanford","10-3",730,"16","adam-jude",16
+16,"Utah","9-4",222,"-","adam-jude",16
+17,"Virginia Tech","10-4",610,"18","adam-jude",16
+18,"Florida","9-4",640,"20","adam-jude",16
+19,"LSU","8-4",651,"19","adam-jude",16
+20,"West Virginia","10-3",368,"14","adam-jude",16
+21,"San Diego State","11-3",113,"-","adam-jude",16
+22,"Brigham Young","9-4",9,"-","adam-jude",16
+23,"Auburn","8-5",206,"17","adam-jude",16
+24,"Tennessee","9-4",253,"-","adam-jude",16
+25,"Kansas State","9-4",83,"-","adam-jude",16
+1,"Clemson","14-1",1500,"3","adam-zucker",16
+2,"Alabama","14-1",1440,"1","adam-zucker",16
+3,"USC","10-3",1292,"9","adam-zucker",16
+4,"Washington","12-2",1277,"4","adam-zucker",16
+5,"Ohio State","11-2",1240,"2","adam-zucker",16
+6,"Oklahoma","11-2",1252,"7","adam-zucker",16
+7,"Florida State","10-3",1105,"10","adam-zucker",16
+8,"Michigan","10-3",1001,"6","adam-zucker",16
+9,"Penn State","11-3",1130,"5","adam-zucker",16
+10,"Wisconsin","11-3",1032,"8","adam-zucker",16
+11,"Oklahoma State","10-3",920,"13","adam-zucker",16
+12,"LSU","8-4",651,"19","adam-zucker",16
+13,"Colorado","10-4",585,"11","adam-zucker",16
+14,"Stanford","10-3",730,"16","adam-zucker",16
+15,"Florida","9-4",640,"20","adam-zucker",16
+16,"Western Michigan","13-1",619,"12","adam-zucker",16
+17,"South Florida","11-2",358,"25","adam-zucker",16
+18,"Louisville","9-4",277,"15","adam-zucker",16
+19,"Tennessee","9-4",253,"-","adam-zucker",16
+20,"Virginia Tech","10-4",610,"18","adam-zucker",16
+21,"Miami","9-4",338,"-","adam-zucker",16
+22,"West Virginia","10-3",368,"14","adam-zucker",16
+23,"Georgia Tech","9-4",47,"-","adam-zucker",16
+24,"Kansas State","9-4",83,"-","adam-zucker",16
+25,"Utah","9-4",222,"-","adam-zucker",16
+1,"Clemson","14-1",1500,"3","andy-greder",16
+2,"Alabama","14-1",1440,"1","andy-greder",16
+3,"Washington","12-2",1277,"4","andy-greder",16
+4,"USC","10-3",1292,"9","andy-greder",16
+5,"Oklahoma","11-2",1252,"7","andy-greder",16
+6,"Penn State","11-3",1130,"5","andy-greder",16
+7,"Ohio State","11-2",1240,"2","andy-greder",16
+8,"Florida State","10-3",1105,"10","andy-greder",16
+9,"Michigan","10-3",1001,"6","andy-greder",16
+10,"Wisconsin","11-3",1032,"8","andy-greder",16
+11,"Oklahoma State","10-3",920,"13","andy-greder",16
+12,"LSU","8-4",651,"19","andy-greder",16
+13,"Florida","9-4",640,"20","andy-greder",16
+14,"Western Michigan","13-1",619,"12","andy-greder",16
+15,"Auburn","8-5",206,"17","andy-greder",16
+16,"Colorado","10-4",585,"11","andy-greder",16
+17,"Stanford","10-3",730,"16","andy-greder",16
+18,"Louisville","9-4",277,"15","andy-greder",16
+19,"Virginia Tech","10-4",610,"18","andy-greder",16
+20,"Miami","9-4",338,"-","andy-greder",16
+21,"Tennessee","9-4",253,"-","andy-greder",16
+22,"Kansas State","9-4",83,"-","andy-greder",16
+23,"South Florida","11-2",358,"25","andy-greder",16
+24,"North Carolina","8-5",8,"-","andy-greder",16
+25,"Minnesota","9-4",12,"-","andy-greder",16
+1,"Clemson","14-1",1500,"3","bill-landis",16
+2,"Alabama","14-1",1440,"1","bill-landis",16
+3,"USC","10-3",1292,"9","bill-landis",16
+4,"Penn State","11-3",1130,"5","bill-landis",16
+5,"Ohio State","11-2",1240,"2","bill-landis",16
+6,"Washington","12-2",1277,"4","bill-landis",16
+7,"Florida State","10-3",1105,"10","bill-landis",16
+8,"Michigan","10-3",1001,"6","bill-landis",16
+9,"Wisconsin","11-3",1032,"8","bill-landis",16
+10,"Oklahoma","11-2",1252,"7","bill-landis",16
+11,"Oklahoma State","10-3",920,"13","bill-landis",16
+12,"Colorado","10-4",585,"11","bill-landis",16
+13,"Stanford","10-3",730,"16","bill-landis",16
+14,"Western Michigan","13-1",619,"12","bill-landis",16
+15,"Tennessee","9-4",253,"-","bill-landis",16
+16,"Virginia Tech","10-4",610,"18","bill-landis",16
+17,"Florida","9-4",640,"20","bill-landis",16
+18,"LSU","8-4",651,"19","bill-landis",16
+19,"Utah","9-4",222,"-","bill-landis",16
+20,"North Carolina","8-5",8,"-","bill-landis",16
+21,"Louisville","9-4",277,"15","bill-landis",16
+22,"South Florida","11-2",358,"25","bill-landis",16
+23,"Miami","9-4",338,"-","bill-landis",16
+24,"Pittsburgh","8-5",21,"22","bill-landis",16
+25,"Georgia Tech","9-4",47,"-","bill-landis",16
+1,"Clemson","14-1",1500,"3","bob-asmussen",16
+2,"Alabama","14-1",1440,"1","bob-asmussen",16
+3,"USC","10-3",1292,"9","bob-asmussen",16
+4,"Ohio State","11-2",1240,"2","bob-asmussen",16
+5,"Oklahoma","11-2",1252,"7","bob-asmussen",16
+6,"Washington","12-2",1277,"4","bob-asmussen",16
+7,"Wisconsin","11-3",1032,"8","bob-asmussen",16
+8,"Penn State","11-3",1130,"5","bob-asmussen",16
+9,"Florida State","10-3",1105,"10","bob-asmussen",16
+10,"Michigan","10-3",1001,"6","bob-asmussen",16
+11,"Western Michigan","13-1",619,"12","bob-asmussen",16
+12,"Oklahoma State","10-3",920,"13","bob-asmussen",16
+13,"South Florida","11-2",358,"25","bob-asmussen",16
+14,"Stanford","10-3",730,"16","bob-asmussen",16
+15,"San Diego State","11-3",113,"-","bob-asmussen",16
+16,"Western Kentucky","11-3",32,"-","bob-asmussen",16
+17,"LSU","8-4",651,"19","bob-asmussen",16
+18,"Colorado","10-4",585,"11","bob-asmussen",16
+19,"Florida","9-4",640,"20","bob-asmussen",16
+20,"Virginia Tech","10-4",610,"18","bob-asmussen",16
+21,"West Virginia","10-3",368,"14","bob-asmussen",16
+22,"Tennessee","9-4",253,"-","bob-asmussen",16
+23,"Utah","9-4",222,"-","bob-asmussen",16
+24,"Houston","9-4",8,"-","bob-asmussen",16
+25,"Miami","9-4",338,"-","bob-asmussen",16
+1,"Clemson","14-1",1500,"3","brent-axe",16
+2,"Alabama","14-1",1440,"1","brent-axe",16
+3,"USC","10-3",1292,"9","brent-axe",16
+4,"Oklahoma","11-2",1252,"7","brent-axe",16
+5,"Ohio State","11-2",1240,"2","brent-axe",16
+6,"Washington","12-2",1277,"4","brent-axe",16
+7,"Penn State","11-3",1130,"5","brent-axe",16
+8,"Florida State","10-3",1105,"10","brent-axe",16
+9,"Michigan","10-3",1001,"6","brent-axe",16
+10,"Wisconsin","11-3",1032,"8","brent-axe",16
+11,"Western Michigan","13-1",619,"12","brent-axe",16
+12,"Oklahoma State","10-3",920,"13","brent-axe",16
+13,"West Virginia","10-3",368,"14","brent-axe",16
+14,"South Florida","11-2",358,"25","brent-axe",16
+15,"Stanford","10-3",730,"16","brent-axe",16
+16,"Florida","9-4",640,"20","brent-axe",16
+17,"LSU","8-4",651,"19","brent-axe",16
+18,"Virginia Tech","10-4",610,"18","brent-axe",16
+19,"Colorado","10-4",585,"11","brent-axe",16
+20,"Miami","9-4",338,"-","brent-axe",16
+21,"Louisville","9-4",277,"15","brent-axe",16
+22,"Tennessee","9-4",253,"-","brent-axe",16
+23,"Tulsa","10-3",10,"-","brent-axe",16
+24,"Georgia Tech","9-4",47,"-","brent-axe",16
+25,"San Diego State","11-3",113,"-","brent-axe",16
+1,"Clemson","14-1",1500,"3","brett-mcmurphy",16
+2,"Alabama","14-1",1440,"1","brett-mcmurphy",16
+3,"Oklahoma","11-2",1252,"7","brett-mcmurphy",16
+4,"USC","10-3",1292,"9","brett-mcmurphy",16
+5,"Washington","12-2",1277,"4","brett-mcmurphy",16
+6,"Ohio State","11-2",1240,"2","brett-mcmurphy",16
+7,"Florida State","10-3",1105,"10","brett-mcmurphy",16
+8,"Penn State","11-3",1130,"5","brett-mcmurphy",16
+9,"Michigan","10-3",1001,"6","brett-mcmurphy",16
+10,"Wisconsin","11-3",1032,"8","brett-mcmurphy",16
+11,"Oklahoma State","10-3",920,"13","brett-mcmurphy",16
+12,"Stanford","10-3",730,"16","brett-mcmurphy",16
+13,"Florida","9-4",640,"20","brett-mcmurphy",16
+14,"LSU","8-4",651,"19","brett-mcmurphy",16
+15,"Virginia Tech","10-4",610,"18","brett-mcmurphy",16
+16,"West Virginia","10-3",368,"14","brett-mcmurphy",16
+17,"Colorado","10-4",585,"11","brett-mcmurphy",16
+18,"South Florida","11-2",358,"25","brett-mcmurphy",16
+19,"Western Michigan","13-1",619,"12","brett-mcmurphy",16
+20,"Miami","9-4",338,"-","brett-mcmurphy",16
+21,"Kansas State","9-4",83,"-","brett-mcmurphy",16
+22,"Tulsa","10-3",10,"-","brett-mcmurphy",16
+23,"Western Kentucky","11-3",32,"-","brett-mcmurphy",16
+24,"Louisville","9-4",277,"15","brett-mcmurphy",16
+25,"Air Force","10-3",30,"-","brett-mcmurphy",16
+1,"Clemson","14-1",1500,"3","brian-howell",16
+2,"Alabama","14-1",1440,"1","brian-howell",16
+3,"Ohio State","11-2",1240,"2","brian-howell",16
+4,"Oklahoma","11-2",1252,"7","brian-howell",16
+5,"USC","10-3",1292,"9","brian-howell",16
+6,"Washington","12-2",1277,"4","brian-howell",16
+7,"Florida State","10-3",1105,"10","brian-howell",16
+8,"Michigan","10-3",1001,"6","brian-howell",16
+9,"Penn State","11-3",1130,"5","brian-howell",16
+10,"Wisconsin","11-3",1032,"8","brian-howell",16
+11,"Oklahoma State","10-3",920,"13","brian-howell",16
+12,"Western Michigan","13-1",619,"12","brian-howell",16
+13,"Colorado","10-4",585,"11","brian-howell",16
+14,"Stanford","10-3",730,"16","brian-howell",16
+15,"Virginia Tech","10-4",610,"18","brian-howell",16
+16,"Florida","9-4",640,"20","brian-howell",16
+17,"LSU","8-4",651,"19","brian-howell",16
+18,"South Florida","11-2",358,"25","brian-howell",16
+19,"Tennessee","9-4",253,"-","brian-howell",16
+20,"Miami","9-4",338,"-","brian-howell",16
+21,"West Virginia","10-3",368,"14","brian-howell",16
+22,"Auburn","8-5",206,"17","brian-howell",16
+23,"Louisville","9-4",277,"15","brian-howell",16
+24,"Utah","9-4",222,"-","brian-howell",16
+25,"Georgia Tech","9-4",47,"-","brian-howell",16
+1,"Clemson","14-1",1500,"3","chris-murray",16
+2,"Alabama","14-1",1440,"1","chris-murray",16
+3,"Washington","12-2",1277,"4","chris-murray",16
+4,"Ohio State","11-2",1240,"2","chris-murray",16
+5,"USC","10-3",1292,"9","chris-murray",16
+6,"Oklahoma","11-2",1252,"7","chris-murray",16
+7,"Penn State","11-3",1130,"5","chris-murray",16
+8,"Florida State","10-3",1105,"10","chris-murray",16
+9,"Michigan","10-3",1001,"6","chris-murray",16
+10,"Wisconsin","11-3",1032,"8","chris-murray",16
+11,"Oklahoma State","10-3",920,"13","chris-murray",16
+12,"Stanford","10-3",730,"16","chris-murray",16
+13,"Florida","9-4",640,"20","chris-murray",16
+14,"Colorado","10-4",585,"11","chris-murray",16
+15,"LSU","8-4",651,"19","chris-murray",16
+16,"Louisville","9-4",277,"15","chris-murray",16
+17,"Western Michigan","13-1",619,"12","chris-murray",16
+18,"West Virginia","10-3",368,"14","chris-murray",16
+19,"Utah","9-4",222,"-","chris-murray",16
+20,"Auburn","8-5",206,"17","chris-murray",16
+21,"Virginia Tech","10-4",610,"18","chris-murray",16
+22,"South Florida","11-2",358,"25","chris-murray",16
+23,"Tennessee","9-4",253,"-","chris-murray",16
+24,"San Diego State","11-3",113,"-","chris-murray",16
+25,"Miami","9-4",338,"-","chris-murray",16
+1,"Clemson","14-1",1500,"3","chuck-carlton",16
+2,"Alabama","14-1",1440,"1","chuck-carlton",16
+3,"USC","10-3",1292,"9","chuck-carlton",16
+4,"Ohio State","11-2",1240,"2","chuck-carlton",16
+5,"Oklahoma","11-2",1252,"7","chuck-carlton",16
+6,"Washington","12-2",1277,"4","chuck-carlton",16
+7,"Penn State","11-3",1130,"5","chuck-carlton",16
+8,"Wisconsin","11-3",1032,"8","chuck-carlton",16
+9,"Florida State","10-3",1105,"10","chuck-carlton",16
+10,"Michigan","10-3",1001,"6","chuck-carlton",16
+11,"Oklahoma State","10-3",920,"13","chuck-carlton",16
+12,"Stanford","10-3",730,"16","chuck-carlton",16
+13,"Florida","9-4",640,"20","chuck-carlton",16
+14,"Virginia Tech","10-4",610,"18","chuck-carlton",16
+15,"LSU","8-4",651,"19","chuck-carlton",16
+16,"Western Michigan","13-1",619,"12","chuck-carlton",16
+17,"Colorado","10-4",585,"11","chuck-carlton",16
+18,"Miami","9-4",338,"-","chuck-carlton",16
+19,"West Virginia","10-3",368,"14","chuck-carlton",16
+20,"Utah","9-4",222,"-","chuck-carlton",16
+21,"Tennessee","9-4",253,"-","chuck-carlton",16
+22,"Louisville","9-4",277,"15","chuck-carlton",16
+23,"South Florida","11-2",358,"25","chuck-carlton",16
+24,"Kansas State","9-4",83,"-","chuck-carlton",16
+25,"San Diego State","11-3",113,"-","chuck-carlton",16
+1,"Clemson","14-1",1500,"3","dana-sulonen",16
+2,"Alabama","14-1",1440,"1","dana-sulonen",16
+3,"Oklahoma","11-2",1252,"7","dana-sulonen",16
+4,"Washington","12-2",1277,"4","dana-sulonen",16
+5,"USC","10-3",1292,"9","dana-sulonen",16
+6,"Florida State","10-3",1105,"10","dana-sulonen",16
+7,"Penn State","11-3",1130,"5","dana-sulonen",16
+8,"Ohio State","11-2",1240,"2","dana-sulonen",16
+9,"Michigan","10-3",1001,"6","dana-sulonen",16
+10,"Wisconsin","11-3",1032,"8","dana-sulonen",16
+11,"Oklahoma State","10-3",920,"13","dana-sulonen",16
+12,"Stanford","10-3",730,"16","dana-sulonen",16
+13,"LSU","8-4",651,"19","dana-sulonen",16
+14,"Western Michigan","13-1",619,"12","dana-sulonen",16
+15,"Florida","9-4",640,"20","dana-sulonen",16
+16,"Louisville","9-4",277,"15","dana-sulonen",16
+17,"Colorado","10-4",585,"11","dana-sulonen",16
+18,"West Virginia","10-3",368,"14","dana-sulonen",16
+19,"Virginia Tech","10-4",610,"18","dana-sulonen",16
+20,"Tennessee","9-4",253,"-","dana-sulonen",16
+21,"Nebraska","9-4",38,"24","dana-sulonen",16
+22,"Utah","9-4",222,"-","dana-sulonen",16
+23,"Miami","9-4",338,"-","dana-sulonen",16
+24,"South Florida","11-2",358,"25","dana-sulonen",16
+25,"San Diego State","11-3",113,"-","dana-sulonen",16
+1,"Clemson","14-1",1500,"3","dave-southorn",16
+2,"Alabama","14-1",1440,"1","dave-southorn",16
+3,"USC","10-3",1292,"9","dave-southorn",16
+4,"Oklahoma","11-2",1252,"7","dave-southorn",16
+5,"Washington","12-2",1277,"4","dave-southorn",16
+6,"Penn State","11-3",1130,"5","dave-southorn",16
+7,"Ohio State","11-2",1240,"2","dave-southorn",16
+8,"Florida State","10-3",1105,"10","dave-southorn",16
+9,"Wisconsin","11-3",1032,"8","dave-southorn",16
+10,"Michigan","10-3",1001,"6","dave-southorn",16
+11,"Oklahoma State","10-3",920,"13","dave-southorn",16
+12,"Stanford","10-3",730,"16","dave-southorn",16
+13,"LSU","8-4",651,"19","dave-southorn",16
+14,"Virginia Tech","10-4",610,"18","dave-southorn",16
+15,"Florida","9-4",640,"20","dave-southorn",16
+16,"South Florida","11-2",358,"25","dave-southorn",16
+17,"Western Michigan","13-1",619,"12","dave-southorn",16
+18,"Colorado","10-4",585,"11","dave-southorn",16
+19,"Louisville","9-4",277,"15","dave-southorn",16
+20,"West Virginia","10-3",368,"14","dave-southorn",16
+21,"Auburn","8-5",206,"17","dave-southorn",16
+22,"Miami","9-4",338,"-","dave-southorn",16
+23,"Utah","9-4",222,"-","dave-southorn",16
+24,"San Diego State","11-3",113,"-","dave-southorn",16
+25,"Georgia Tech","9-4",47,"-","dave-southorn",16
+1,"Clemson","14-1",1500,"3","david-briggs",16
+2,"Alabama","14-1",1440,"1","david-briggs",16
+3,"USC","10-3",1292,"9","david-briggs",16
+4,"Washington","12-2",1277,"4","david-briggs",16
+5,"Ohio State","11-2",1240,"2","david-briggs",16
+6,"Oklahoma","11-2",1252,"7","david-briggs",16
+7,"Florida State","10-3",1105,"10","david-briggs",16
+8,"Michigan","10-3",1001,"6","david-briggs",16
+9,"Penn State","11-3",1130,"5","david-briggs",16
+10,"Wisconsin","11-3",1032,"8","david-briggs",16
+11,"Oklahoma State","10-3",920,"13","david-briggs",16
+12,"Stanford","10-3",730,"16","david-briggs",16
+13,"Western Michigan","13-1",619,"12","david-briggs",16
+14,"LSU","8-4",651,"19","david-briggs",16
+15,"Florida","9-4",640,"20","david-briggs",16
+16,"Virginia Tech","10-4",610,"18","david-briggs",16
+17,"Utah","9-4",222,"-","david-briggs",16
+18,"Pittsburgh","8-5",21,"22","david-briggs",16
+19,"Colorado","10-4",585,"11","david-briggs",16
+20,"South Florida","11-2",358,"25","david-briggs",16
+21,"Auburn","8-5",206,"17","david-briggs",16
+22,"Miami","9-4",338,"-","david-briggs",16
+23,"Tennessee","9-4",253,"-","david-briggs",16
+24,"Kansas State","9-4",83,"-","david-briggs",16
+25,"Air Force","10-3",30,"-","david-briggs",16
+1,"Clemson","14-1",1500,"3","ed-daigneault",16
+2,"Alabama","14-1",1440,"1","ed-daigneault",16
+3,"Ohio State","11-2",1240,"2","ed-daigneault",16
+4,"Washington","12-2",1277,"4","ed-daigneault",16
+5,"Oklahoma","11-2",1252,"7","ed-daigneault",16
+6,"USC","10-3",1292,"9","ed-daigneault",16
+7,"Wisconsin","11-3",1032,"8","ed-daigneault",16
+8,"Penn State","11-3",1130,"5","ed-daigneault",16
+9,"Florida State","10-3",1105,"10","ed-daigneault",16
+10,"Michigan","10-3",1001,"6","ed-daigneault",16
+11,"Oklahoma State","10-3",920,"13","ed-daigneault",16
+12,"Stanford","10-3",730,"16","ed-daigneault",16
+13,"South Florida","11-2",358,"25","ed-daigneault",16
+14,"Western Michigan","13-1",619,"12","ed-daigneault",16
+15,"West Virginia","10-3",368,"14","ed-daigneault",16
+16,"Colorado","10-4",585,"11","ed-daigneault",16
+17,"Virginia Tech","10-4",610,"18","ed-daigneault",16
+18,"Tennessee","9-4",253,"-","ed-daigneault",16
+19,"Louisville","9-4",277,"15","ed-daigneault",16
+20,"Florida","9-4",640,"20","ed-daigneault",16
+21,"Miami","9-4",338,"-","ed-daigneault",16
+22,"Utah","9-4",222,"-","ed-daigneault",16
+23,"Temple","10-4",8,"23","ed-daigneault",16
+24,"Tulsa","10-3",10,"-","ed-daigneault",16
+25,"Western Kentucky","11-3",32,"-","ed-daigneault",16
+1,"Clemson","14-1",1500,"3","ed-johnson",16
+2,"Alabama","14-1",1440,"1","ed-johnson",16
+3,"USC","10-3",1292,"9","ed-johnson",16
+4,"Penn State","11-3",1130,"5","ed-johnson",16
+5,"Oklahoma","11-2",1252,"7","ed-johnson",16
+6,"Washington","12-2",1277,"4","ed-johnson",16
+7,"Florida State","10-3",1105,"10","ed-johnson",16
+8,"Ohio State","11-2",1240,"2","ed-johnson",16
+9,"Michigan","10-3",1001,"6","ed-johnson",16
+10,"Wisconsin","11-3",1032,"8","ed-johnson",16
+11,"Oklahoma State","10-3",920,"13","ed-johnson",16
+12,"LSU","8-4",651,"19","ed-johnson",16
+13,"South Florida","11-2",358,"25","ed-johnson",16
+14,"Western Michigan","13-1",619,"12","ed-johnson",16
+15,"Louisville","9-4",277,"15","ed-johnson",16
+16,"Florida","9-4",640,"20","ed-johnson",16
+17,"Colorado","10-4",585,"11","ed-johnson",16
+18,"Virginia Tech","10-4",610,"18","ed-johnson",16
+19,"San Diego State","11-3",113,"-","ed-johnson",16
+20,"Stanford","10-3",730,"16","ed-johnson",16
+21,"Kansas State","9-4",83,"-","ed-johnson",16
+22,"Tennessee","9-4",253,"-","ed-johnson",16
+23,"Georgia Tech","9-4",47,"-","ed-johnson",16
+24,"Miami","9-4",338,"-","ed-johnson",16
+25,"West Virginia","10-3",368,"14","ed-johnson",16
+1,"Clemson","14-1",1500,"3","eric-hansen",16
+2,"Alabama","14-1",1440,"1","eric-hansen",16
+3,"USC","10-3",1292,"9","eric-hansen",16
+4,"Washington","12-2",1277,"4","eric-hansen",16
+5,"Ohio State","11-2",1240,"2","eric-hansen",16
+6,"Penn State","11-3",1130,"5","eric-hansen",16
+7,"Wisconsin","11-3",1032,"8","eric-hansen",16
+8,"Florida State","10-3",1105,"10","eric-hansen",16
+9,"Oklahoma","11-2",1252,"7","eric-hansen",16
+10,"Michigan","10-3",1001,"6","eric-hansen",16
+11,"Stanford","10-3",730,"16","eric-hansen",16
+12,"Western Michigan","13-1",619,"12","eric-hansen",16
+13,"Oklahoma State","10-3",920,"13","eric-hansen",16
+14,"Colorado","10-4",585,"11","eric-hansen",16
+15,"LSU","8-4",651,"19","eric-hansen",16
+16,"Virginia Tech","10-4",610,"18","eric-hansen",16
+17,"Utah","9-4",222,"-","eric-hansen",16
+18,"Tennessee","9-4",253,"-","eric-hansen",16
+19,"Louisville","9-4",277,"15","eric-hansen",16
+20,"South Florida","11-2",358,"25","eric-hansen",16
+21,"Florida","9-4",640,"20","eric-hansen",16
+22,"Auburn","8-5",206,"17","eric-hansen",16
+23,"Miami","9-4",338,"-","eric-hansen",16
+24,"West Virginia","10-3",368,"14","eric-hansen",16
+25,"Pittsburgh","8-5",21,"22","eric-hansen",16
+1,"Clemson","14-1",1500,"3","ferd-lewis",16
+2,"Alabama","14-1",1440,"1","ferd-lewis",16
+3,"USC","10-3",1292,"9","ferd-lewis",16
+4,"Oklahoma","11-2",1252,"7","ferd-lewis",16
+5,"Penn State","11-3",1130,"5","ferd-lewis",16
+6,"Washington","12-2",1277,"4","ferd-lewis",16
+7,"Ohio State","11-2",1240,"2","ferd-lewis",16
+8,"Wisconsin","11-3",1032,"8","ferd-lewis",16
+9,"Florida State","10-3",1105,"10","ferd-lewis",16
+10,"Michigan","10-3",1001,"6","ferd-lewis",16
+11,"Oklahoma State","10-3",920,"13","ferd-lewis",16
+12,"Stanford","10-3",730,"16","ferd-lewis",16
+13,"Western Michigan","13-1",619,"12","ferd-lewis",16
+14,"Virginia Tech","10-4",610,"18","ferd-lewis",16
+15,"LSU","8-4",651,"19","ferd-lewis",16
+16,"Colorado","10-4",585,"11","ferd-lewis",16
+17,"Florida","9-4",640,"20","ferd-lewis",16
+18,"Tennessee","9-4",253,"-","ferd-lewis",16
+19,"Auburn","8-5",206,"17","ferd-lewis",16
+20,"South Florida","11-2",358,"25","ferd-lewis",16
+21,"Miami","9-4",338,"-","ferd-lewis",16
+22,"West Virginia","10-3",368,"14","ferd-lewis",16
+23,"Louisville","9-4",277,"15","ferd-lewis",16
+24,"Utah","9-4",222,"-","ferd-lewis",16
+25,"San Diego State","11-3",113,"-","ferd-lewis",16
+1,"Clemson","14-1",1500,"3","garland-gillen",16
+2,"Alabama","14-1",1440,"1","garland-gillen",16
+3,"USC","10-3",1292,"9","garland-gillen",16
+4,"Oklahoma","11-2",1252,"7","garland-gillen",16
+5,"Florida State","10-3",1105,"10","garland-gillen",16
+6,"Washington","12-2",1277,"4","garland-gillen",16
+7,"Ohio State","11-2",1240,"2","garland-gillen",16
+8,"Penn State","11-3",1130,"5","garland-gillen",16
+9,"Michigan","10-3",1001,"6","garland-gillen",16
+10,"Wisconsin","11-3",1032,"8","garland-gillen",16
+11,"Oklahoma State","10-3",920,"13","garland-gillen",16
+12,"Florida","9-4",640,"20","garland-gillen",16
+13,"LSU","8-4",651,"19","garland-gillen",16
+14,"Colorado","10-4",585,"11","garland-gillen",16
+15,"Stanford","10-3",730,"16","garland-gillen",16
+16,"Louisville","9-4",277,"15","garland-gillen",16
+17,"Auburn","8-5",206,"17","garland-gillen",16
+18,"Western Michigan","13-1",619,"12","garland-gillen",16
+19,"Virginia Tech","10-4",610,"18","garland-gillen",16
+20,"West Virginia","10-3",368,"14","garland-gillen",16
+21,"Utah","9-4",222,"-","garland-gillen",16
+22,"Tennessee","9-4",253,"-","garland-gillen",16
+23,"South Florida","11-2",358,"25","garland-gillen",16
+24,"Georgia Tech","9-4",47,"-","garland-gillen",16
+25,"Kansas State","9-4",83,"-","garland-gillen",16
+1,"Clemson","14-1",1500,"3","garry-smits",16
+2,"Alabama","14-1",1440,"1","garry-smits",16
+3,"Washington","12-2",1277,"4","garry-smits",16
+4,"Ohio State","11-2",1240,"2","garry-smits",16
+5,"Oklahoma","11-2",1252,"7","garry-smits",16
+6,"USC","10-3",1292,"9","garry-smits",16
+7,"Florida State","10-3",1105,"10","garry-smits",16
+8,"Michigan","10-3",1001,"6","garry-smits",16
+9,"Penn State","11-3",1130,"5","garry-smits",16
+10,"Wisconsin","11-3",1032,"8","garry-smits",16
+11,"Oklahoma State","10-3",920,"13","garry-smits",16
+12,"Virginia Tech","10-4",610,"18","garry-smits",16
+13,"Miami","9-4",338,"-","garry-smits",16
+14,"Florida","9-4",640,"20","garry-smits",16
+15,"LSU","8-4",651,"19","garry-smits",16
+16,"Western Michigan","13-1",619,"12","garry-smits",16
+17,"West Virginia","10-3",368,"14","garry-smits",16
+18,"Colorado","10-4",585,"11","garry-smits",16
+19,"Stanford","10-3",730,"16","garry-smits",16
+20,"South Florida","11-2",358,"25","garry-smits",16
+21,"Western Kentucky","11-3",32,"-","garry-smits",16
+22,"San Diego State","11-3",113,"-","garry-smits",16
+23,"Utah","9-4",222,"-","garry-smits",16
+24,"Louisville","9-4",277,"15","garry-smits",16
+25,"Kansas State","9-4",83,"-","garry-smits",16
+1,"Clemson","14-1",1500,"3","gary-horowitz",16
+2,"Alabama","14-1",1440,"1","gary-horowitz",16
+3,"USC","10-3",1292,"9","gary-horowitz",16
+4,"Penn State","11-3",1130,"5","gary-horowitz",16
+5,"Ohio State","11-2",1240,"2","gary-horowitz",16
+6,"Washington","12-2",1277,"4","gary-horowitz",16
+7,"Oklahoma","11-2",1252,"7","gary-horowitz",16
+8,"Florida State","10-3",1105,"10","gary-horowitz",16
+9,"Wisconsin","11-3",1032,"8","gary-horowitz",16
+10,"Oklahoma State","10-3",920,"13","gary-horowitz",16
+11,"Michigan","10-3",1001,"6","gary-horowitz",16
+12,"Western Michigan","13-1",619,"12","gary-horowitz",16
+13,"Virginia Tech","10-4",610,"18","gary-horowitz",16
+14,"LSU","8-4",651,"19","gary-horowitz",16
+15,"Stanford","10-3",730,"16","gary-horowitz",16
+16,"Florida","9-4",640,"20","gary-horowitz",16
+17,"South Florida","11-2",358,"25","gary-horowitz",16
+18,"Miami","9-4",338,"-","gary-horowitz",16
+19,"West Virginia","10-3",368,"14","gary-horowitz",16
+20,"San Diego State","11-3",113,"-","gary-horowitz",16
+21,"Utah","9-4",222,"-","gary-horowitz",16
+22,"Air Force","10-3",30,"-","gary-horowitz",16
+23,"Colorado","10-4",585,"11","gary-horowitz",16
+24,"Louisville","9-4",277,"15","gary-horowitz",16
+25,"Western Kentucky","11-3",32,"-","gary-horowitz",16
+1,"Clemson","14-1",1500,"3","graham-watson",16
+2,"Alabama","14-1",1440,"1","graham-watson",16
+3,"Oklahoma","11-2",1252,"7","graham-watson",16
+4,"USC","10-3",1292,"9","graham-watson",16
+5,"Penn State","11-3",1130,"5","graham-watson",16
+6,"Washington","12-2",1277,"4","graham-watson",16
+7,"Florida State","10-3",1105,"10","graham-watson",16
+8,"Wisconsin","11-3",1032,"8","graham-watson",16
+9,"Ohio State","11-2",1240,"2","graham-watson",16
+10,"Michigan","10-3",1001,"6","graham-watson",16
+11,"Oklahoma State","10-3",920,"13","graham-watson",16
+12,"LSU","8-4",651,"19","graham-watson",16
+13,"Florida","9-4",640,"20","graham-watson",16
+14,"Stanford","10-3",730,"16","graham-watson",16
+15,"Virginia Tech","10-4",610,"18","graham-watson",16
+16,"Tennessee","9-4",253,"-","graham-watson",16
+17,"Colorado","10-4",585,"11","graham-watson",16
+18,"Utah","9-4",222,"-","graham-watson",16
+19,"Louisville","9-4",277,"15","graham-watson",16
+20,"Auburn","8-5",206,"17","graham-watson",16
+21,"South Florida","11-2",358,"25","graham-watson",16
+22,"Miami","9-4",338,"-","graham-watson",16
+23,"Western Michigan","13-1",619,"12","graham-watson",16
+24,"West Virginia","10-3",368,"14","graham-watson",16
+25,"Western Kentucky","11-3",32,"-","graham-watson",16
+1,"Clemson","14-1",1500,"3","jason-galloway",16
+2,"Alabama","14-1",1440,"1","jason-galloway",16
+3,"Ohio State","11-2",1240,"2","jason-galloway",16
+4,"Oklahoma","11-2",1252,"7","jason-galloway",16
+5,"USC","10-3",1292,"9","jason-galloway",16
+6,"Penn State","11-3",1130,"5","jason-galloway",16
+7,"Wisconsin","11-3",1032,"8","jason-galloway",16
+8,"Florida State","10-3",1105,"10","jason-galloway",16
+9,"Michigan","10-3",1001,"6","jason-galloway",16
+10,"Washington","12-2",1277,"4","jason-galloway",16
+11,"LSU","8-4",651,"19","jason-galloway",16
+12,"Oklahoma State","10-3",920,"13","jason-galloway",16
+13,"Florida","9-4",640,"20","jason-galloway",16
+14,"Stanford","10-3",730,"16","jason-galloway",16
+15,"Virginia Tech","10-4",610,"18","jason-galloway",16
+16,"Colorado","10-4",585,"11","jason-galloway",16
+17,"Western Michigan","13-1",619,"12","jason-galloway",16
+18,"South Florida","11-2",358,"25","jason-galloway",16
+19,"Tennessee","9-4",253,"-","jason-galloway",16
+20,"Miami","9-4",338,"-","jason-galloway",16
+21,"West Virginia","10-3",368,"14","jason-galloway",16
+22,"Auburn","8-5",206,"17","jason-galloway",16
+23,"Louisville","9-4",277,"15","jason-galloway",16
+24,"Kansas State","9-4",83,"-","jason-galloway",16
+25,"Georgia Tech","9-4",47,"-","jason-galloway",16
+1,"Clemson","14-1",1500,"3","jeff-miller",16
+2,"Alabama","14-1",1440,"1","jeff-miller",16
+3,"Oklahoma","11-2",1252,"7","jeff-miller",16
+4,"USC","10-3",1292,"9","jeff-miller",16
+5,"Penn State","11-3",1130,"5","jeff-miller",16
+6,"Ohio State","11-2",1240,"2","jeff-miller",16
+7,"Florida State","10-3",1105,"10","jeff-miller",16
+8,"Michigan","10-3",1001,"6","jeff-miller",16
+9,"Wisconsin","11-3",1032,"8","jeff-miller",16
+10,"Washington","12-2",1277,"4","jeff-miller",16
+11,"Oklahoma State","10-3",920,"13","jeff-miller",16
+12,"Florida","9-4",640,"20","jeff-miller",16
+13,"Colorado","10-4",585,"11","jeff-miller",16
+14,"LSU","8-4",651,"19","jeff-miller",16
+15,"Utah","9-4",222,"-","jeff-miller",16
+16,"Western Michigan","13-1",619,"12","jeff-miller",16
+17,"Auburn","8-5",206,"17","jeff-miller",16
+18,"West Virginia","10-3",368,"14","jeff-miller",16
+19,"Stanford","10-3",730,"16","jeff-miller",16
+20,"Miami","9-4",338,"-","jeff-miller",16
+21,"Virginia Tech","10-4",610,"18","jeff-miller",16
+22,"Georgia Tech","9-4",47,"-","jeff-miller",16
+23,"San Diego State","11-3",113,"-","jeff-miller",16
+24,"Iowa","8-5",14,"21","jeff-miller",16
+25,"Tulsa","10-3",10,"-","jeff-miller",16
+1,"Clemson","14-1",1500,"3","jerry-dipaola",16
+2,"Alabama","14-1",1440,"1","jerry-dipaola",16
+3,"Oklahoma","11-2",1252,"7","jerry-dipaola",16
+4,"USC","10-3",1292,"9","jerry-dipaola",16
+5,"Penn State","11-3",1130,"5","jerry-dipaola",16
+6,"Washington","12-2",1277,"4","jerry-dipaola",16
+7,"Ohio State","11-2",1240,"2","jerry-dipaola",16
+8,"Florida State","10-3",1105,"10","jerry-dipaola",16
+9,"Michigan","10-3",1001,"6","jerry-dipaola",16
+10,"Wisconsin","11-3",1032,"8","jerry-dipaola",16
+11,"Oklahoma State","10-3",920,"13","jerry-dipaola",16
+12,"Florida","9-4",640,"20","jerry-dipaola",16
+13,"LSU","8-4",651,"19","jerry-dipaola",16
+14,"Stanford","10-3",730,"16","jerry-dipaola",16
+15,"Louisville","9-4",277,"15","jerry-dipaola",16
+16,"Virginia Tech","10-4",610,"18","jerry-dipaola",16
+17,"Tennessee","9-4",253,"-","jerry-dipaola",16
+18,"Colorado","10-4",585,"11","jerry-dipaola",16
+19,"Utah","9-4",222,"-","jerry-dipaola",16
+20,"Miami","9-4",338,"-","jerry-dipaola",16
+21,"West Virginia","10-3",368,"14","jerry-dipaola",16
+22,"Western Michigan","13-1",619,"12","jerry-dipaola",16
+23,"Auburn","8-5",206,"17","jerry-dipaola",16
+24,"South Florida","11-2",358,"25","jerry-dipaola",16
+25,"Georgia Tech","9-4",47,"-","jerry-dipaola",16
+1,"Clemson","14-1",1500,"3","jimmy-burch",16
+2,"Alabama","14-1",1440,"1","jimmy-burch",16
+3,"Washington","12-2",1277,"4","jimmy-burch",16
+4,"Ohio State","11-2",1240,"2","jimmy-burch",16
+5,"Oklahoma","11-2",1252,"7","jimmy-burch",16
+6,"Wisconsin","11-3",1032,"8","jimmy-burch",16
+7,"USC","10-3",1292,"9","jimmy-burch",16
+8,"Florida State","10-3",1105,"10","jimmy-burch",16
+9,"Penn State","11-3",1130,"5","jimmy-burch",16
+10,"Michigan","10-3",1001,"6","jimmy-burch",16
+11,"Oklahoma State","10-3",920,"13","jimmy-burch",16
+12,"Stanford","10-3",730,"16","jimmy-burch",16
+13,"Virginia Tech","10-4",610,"18","jimmy-burch",16
+14,"Florida","9-4",640,"20","jimmy-burch",16
+15,"LSU","8-4",651,"19","jimmy-burch",16
+16,"Western Michigan","13-1",619,"12","jimmy-burch",16
+17,"Miami","9-4",338,"-","jimmy-burch",16
+18,"San Diego State","11-3",113,"-","jimmy-burch",16
+19,"West Virginia","10-3",368,"14","jimmy-burch",16
+20,"South Florida","11-2",358,"25","jimmy-burch",16
+21,"Louisville","9-4",277,"15","jimmy-burch",16
+22,"Colorado","10-4",585,"11","jimmy-burch",16
+23,"Kansas State","9-4",83,"-","jimmy-burch",16
+24,"Tennessee","9-4",253,"-","jimmy-burch",16
+25,"Air Force","10-3",30,"-","jimmy-burch",16
+1,"Clemson","14-1",1500,"3","joe-dubin",16
+2,"Alabama","14-1",1440,"1","joe-dubin",16
+3,"USC","10-3",1292,"9","joe-dubin",16
+4,"Oklahoma","11-2",1252,"7","joe-dubin",16
+5,"Washington","12-2",1277,"4","joe-dubin",16
+6,"Ohio State","11-2",1240,"2","joe-dubin",16
+7,"Penn State","11-3",1130,"5","joe-dubin",16
+8,"Florida State","10-3",1105,"10","joe-dubin",16
+9,"Wisconsin","11-3",1032,"8","joe-dubin",16
+10,"Michigan","10-3",1001,"6","joe-dubin",16
+11,"Oklahoma State","10-3",920,"13","joe-dubin",16
+12,"Florida","9-4",640,"20","joe-dubin",16
+13,"Stanford","10-3",730,"16","joe-dubin",16
+14,"LSU","8-4",651,"19","joe-dubin",16
+15,"Virginia Tech","10-4",610,"18","joe-dubin",16
+16,"Colorado","10-4",585,"11","joe-dubin",16
+17,"South Florida","11-2",358,"25","joe-dubin",16
+18,"Louisville","9-4",277,"15","joe-dubin",16
+19,"Western Michigan","13-1",619,"12","joe-dubin",16
+20,"Miami","9-4",338,"-","joe-dubin",16
+21,"West Virginia","10-3",368,"14","joe-dubin",16
+22,"Auburn","8-5",206,"17","joe-dubin",16
+23,"Utah","9-4",222,"-","joe-dubin",16
+24,"Tennessee","9-4",253,"-","joe-dubin",16
+25,"Air Force","10-3",30,"-","joe-dubin",16
+1,"Clemson","14-1",1500,"3","joe-walljasper",16
+2,"Alabama","14-1",1440,"1","joe-walljasper",16
+3,"Washington","12-2",1277,"4","joe-walljasper",16
+4,"Ohio State","11-2",1240,"2","joe-walljasper",16
+5,"Oklahoma","11-2",1252,"7","joe-walljasper",16
+6,"USC","10-3",1292,"9","joe-walljasper",16
+7,"Florida State","10-3",1105,"10","joe-walljasper",16
+8,"Penn State","11-3",1130,"5","joe-walljasper",16
+9,"Michigan","10-3",1001,"6","joe-walljasper",16
+10,"Wisconsin","11-3",1032,"8","joe-walljasper",16
+11,"LSU","8-4",651,"19","joe-walljasper",16
+12,"Oklahoma State","10-3",920,"13","joe-walljasper",16
+13,"Stanford","10-3",730,"16","joe-walljasper",16
+14,"Virginia Tech","10-4",610,"18","joe-walljasper",16
+15,"Colorado","10-4",585,"11","joe-walljasper",16
+16,"Florida","9-4",640,"20","joe-walljasper",16
+17,"Miami","9-4",338,"-","joe-walljasper",16
+18,"Western Michigan","13-1",619,"12","joe-walljasper",16
+19,"West Virginia","10-3",368,"14","joe-walljasper",16
+20,"Auburn","8-5",206,"17","joe-walljasper",16
+21,"Louisville","9-4",277,"15","joe-walljasper",16
+22,"Kansas State","9-4",83,"-","joe-walljasper",16
+23,"Tennessee","9-4",253,"-","joe-walljasper",16
+24,"Utah","9-4",222,"-","joe-walljasper",16
+25,"South Florida","11-2",358,"25","joe-walljasper",16
+1,"Clemson","14-1",1500,"3","joey-knight",16
+2,"Alabama","14-1",1440,"1","joey-knight",16
+3,"USC","10-3",1292,"9","joey-knight",16
+4,"Washington","12-2",1277,"4","joey-knight",16
+5,"Oklahoma","11-2",1252,"7","joey-knight",16
+6,"Penn State","11-3",1130,"5","joey-knight",16
+7,"Florida State","10-3",1105,"10","joey-knight",16
+8,"Wisconsin","11-3",1032,"8","joey-knight",16
+9,"Ohio State","11-2",1240,"2","joey-knight",16
+10,"Michigan","10-3",1001,"6","joey-knight",16
+11,"Oklahoma State","10-3",920,"13","joey-knight",16
+12,"Stanford","10-3",730,"16","joey-knight",16
+13,"Virginia Tech","10-4",610,"18","joey-knight",16
+14,"LSU","8-4",651,"19","joey-knight",16
+15,"Western Michigan","13-1",619,"12","joey-knight",16
+16,"Florida","9-4",640,"20","joey-knight",16
+17,"South Florida","11-2",358,"25","joey-knight",16
+18,"Miami","9-4",338,"-","joey-knight",16
+19,"Colorado","10-4",585,"11","joey-knight",16
+20,"Iowa","8-5",14,"21","joey-knight",16
+21,"Utah","9-4",222,"-","joey-knight",16
+22,"West Virginia","10-3",368,"14","joey-knight",16
+23,"Kansas State","9-4",83,"-","joey-knight",16
+24,"Tennessee","9-4",253,"-","joey-knight",16
+25,"Temple","10-4",8,"23","joey-knight",16
+1,"Clemson","14-1",1500,"3","john-clay",16
+2,"Alabama","14-1",1440,"1","john-clay",16
+3,"Washington","12-2",1277,"4","john-clay",16
+4,"Ohio State","11-2",1240,"2","john-clay",16
+5,"USC","10-3",1292,"9","john-clay",16
+6,"Penn State","11-3",1130,"5","john-clay",16
+7,"Oklahoma","11-2",1252,"7","john-clay",16
+8,"Wisconsin","11-3",1032,"8","john-clay",16
+9,"Florida State","10-3",1105,"10","john-clay",16
+10,"Michigan","10-3",1001,"6","john-clay",16
+11,"Oklahoma State","10-3",920,"13","john-clay",16
+12,"Miami","9-4",338,"-","john-clay",16
+13,"Florida","9-4",640,"20","john-clay",16
+14,"LSU","8-4",651,"19","john-clay",16
+15,"Colorado","10-4",585,"11","john-clay",16
+16,"Virginia Tech","10-4",610,"18","john-clay",16
+17,"Western Michigan","13-1",619,"12","john-clay",16
+18,"Stanford","10-3",730,"16","john-clay",16
+19,"Auburn","8-5",206,"17","john-clay",16
+20,"Kansas State","9-4",83,"-","john-clay",16
+21,"South Florida","11-2",358,"25","john-clay",16
+22,"Louisville","9-4",277,"15","john-clay",16
+23,"West Virginia","10-3",368,"14","john-clay",16
+24,"Tennessee","9-4",253,"-","john-clay",16
+25,"Western Kentucky","11-3",32,"-","john-clay",16
+1,"Clemson","14-1",1500,"3","john-shinn",16
+2,"Alabama","14-1",1440,"1","john-shinn",16
+3,"Ohio State","11-2",1240,"2","john-shinn",16
+4,"Oklahoma","11-2",1252,"7","john-shinn",16
+5,"Washington","12-2",1277,"4","john-shinn",16
+6,"USC","10-3",1292,"9","john-shinn",16
+7,"Penn State","11-3",1130,"5","john-shinn",16
+8,"Wisconsin","11-3",1032,"8","john-shinn",16
+9,"Florida State","10-3",1105,"10","john-shinn",16
+10,"Oklahoma State","10-3",920,"13","john-shinn",16
+11,"Michigan","10-3",1001,"6","john-shinn",16
+12,"Virginia Tech","10-4",610,"18","john-shinn",16
+13,"Florida","9-4",640,"20","john-shinn",16
+14,"Colorado","10-4",585,"11","john-shinn",16
+15,"Stanford","10-3",730,"16","john-shinn",16
+16,"LSU","8-4",651,"19","john-shinn",16
+17,"Auburn","8-5",206,"17","john-shinn",16
+18,"Western Michigan","13-1",619,"12","john-shinn",16
+19,"Miami","9-4",338,"-","john-shinn",16
+20,"West Virginia","10-3",368,"14","john-shinn",16
+21,"Utah","9-4",222,"-","john-shinn",16
+22,"Temple","10-4",8,"23","john-shinn",16
+23,"Louisville","9-4",277,"15","john-shinn",16
+24,"Kansas State","9-4",83,"-","john-shinn",16
+25,"Georgia Tech","9-4",47,"-","john-shinn",16
+1,"Clemson","14-1",1500,"3","jon-wilner",16
+2,"Alabama","14-1",1440,"1","jon-wilner",16
+3,"Washington","12-2",1277,"4","jon-wilner",16
+4,"Ohio State","11-2",1240,"2","jon-wilner",16
+5,"USC","10-3",1292,"9","jon-wilner",16
+6,"Florida State","10-3",1105,"10","jon-wilner",16
+7,"Michigan","10-3",1001,"6","jon-wilner",16
+8,"Penn State","11-3",1130,"5","jon-wilner",16
+9,"Oklahoma","11-2",1252,"7","jon-wilner",16
+10,"Wisconsin","11-3",1032,"8","jon-wilner",16
+11,"Oklahoma State","10-3",920,"13","jon-wilner",16
+12,"Auburn","8-5",206,"17","jon-wilner",16
+13,"LSU","8-4",651,"19","jon-wilner",16
+14,"Stanford","10-3",730,"16","jon-wilner",16
+15,"Louisville","9-4",277,"15","jon-wilner",16
+16,"Colorado","10-4",585,"11","jon-wilner",16
+17,"Western Michigan","13-1",619,"12","jon-wilner",16
+18,"Florida","9-4",640,"20","jon-wilner",16
+19,"Virginia Tech","10-4",610,"18","jon-wilner",16
+20,"Tennessee","9-4",253,"-","jon-wilner",16
+21,"Miami","9-4",338,"-","jon-wilner",16
+22,"West Virginia","10-3",368,"14","jon-wilner",16
+23,"Kansas State","9-4",83,"-","jon-wilner",16
+24,"Nebraska","9-4",38,"24","jon-wilner",16
+25,"Utah","9-4",222,"-","jon-wilner",16
+1,"Clemson","14-1",1500,"3","jonny-miller",16
+2,"Alabama","14-1",1440,"1","jonny-miller",16
+3,"Oklahoma","11-2",1252,"7","jonny-miller",16
+4,"Wisconsin","11-3",1032,"8","jonny-miller",16
+5,"USC","10-3",1292,"9","jonny-miller",16
+6,"Ohio State","11-2",1240,"2","jonny-miller",16
+7,"Washington","12-2",1277,"4","jonny-miller",16
+8,"Florida State","10-3",1105,"10","jonny-miller",16
+9,"Penn State","11-3",1130,"5","jonny-miller",16
+10,"Oklahoma State","10-3",920,"13","jonny-miller",16
+11,"Michigan","10-3",1001,"6","jonny-miller",16
+12,"LSU","8-4",651,"19","jonny-miller",16
+13,"Stanford","10-3",730,"16","jonny-miller",16
+14,"Colorado","10-4",585,"11","jonny-miller",16
+15,"Virginia Tech","10-4",610,"18","jonny-miller",16
+16,"Florida","9-4",640,"20","jonny-miller",16
+17,"West Virginia","10-3",368,"14","jonny-miller",16
+18,"Louisville","9-4",277,"15","jonny-miller",16
+19,"South Florida","11-2",358,"25","jonny-miller",16
+20,"Auburn","8-5",206,"17","jonny-miller",16
+21,"Western Michigan","13-1",619,"12","jonny-miller",16
+22,"Tennessee","9-4",253,"-","jonny-miller",16
+23,"Miami","9-4",338,"-","jonny-miller",16
+24,"San Diego State","11-3",113,"-","jonny-miller",16
+25,"Nebraska","9-4",38,"24","jonny-miller",16
+1,"Clemson","14-1",1500,"3","josh-kendall",16
+2,"Alabama","14-1",1440,"1","josh-kendall",16
+3,"USC","10-3",1292,"9","josh-kendall",16
+4,"Penn State","11-3",1130,"5","josh-kendall",16
+5,"Washington","12-2",1277,"4","josh-kendall",16
+6,"Wisconsin","11-3",1032,"8","josh-kendall",16
+7,"Florida State","10-3",1105,"10","josh-kendall",16
+8,"Ohio State","11-2",1240,"2","josh-kendall",16
+9,"Oklahoma","11-2",1252,"7","josh-kendall",16
+10,"Michigan","10-3",1001,"6","josh-kendall",16
+11,"Oklahoma State","10-3",920,"13","josh-kendall",16
+12,"Stanford","10-3",730,"16","josh-kendall",16
+13,"Florida","9-4",640,"20","josh-kendall",16
+14,"LSU","8-4",651,"19","josh-kendall",16
+15,"Colorado","10-4",585,"11","josh-kendall",16
+16,"Western Michigan","13-1",619,"12","josh-kendall",16
+17,"Auburn","8-5",206,"17","josh-kendall",16
+18,"Miami","9-4",338,"-","josh-kendall",16
+19,"Tennessee","9-4",253,"-","josh-kendall",16
+20,"Utah","9-4",222,"-","josh-kendall",16
+21,"Air Force","10-3",30,"-","josh-kendall",16
+22,"West Virginia","10-3",368,"14","josh-kendall",16
+23,"Iowa","8-5",14,"21","josh-kendall",16
+24,"Minnesota","9-4",12,"-","josh-kendall",16
+25,"Washington State","8-5",1,"-","josh-kendall",16
+1,"Clemson","14-1",1500,"3","keith-sargeant",16
+2,"Alabama","14-1",1440,"1","keith-sargeant",16
+3,"USC","10-3",1292,"9","keith-sargeant",16
+4,"Penn State","11-3",1130,"5","keith-sargeant",16
+5,"Ohio State","11-2",1240,"2","keith-sargeant",16
+6,"Washington","12-2",1277,"4","keith-sargeant",16
+7,"Oklahoma","11-2",1252,"7","keith-sargeant",16
+8,"Florida State","10-3",1105,"10","keith-sargeant",16
+9,"Michigan","10-3",1001,"6","keith-sargeant",16
+10,"Wisconsin","11-3",1032,"8","keith-sargeant",16
+11,"Western Michigan","13-1",619,"12","keith-sargeant",16
+12,"Oklahoma State","10-3",920,"13","keith-sargeant",16
+13,"Colorado","10-4",585,"11","keith-sargeant",16
+14,"Stanford","10-3",730,"16","keith-sargeant",16
+15,"Virginia Tech","10-4",610,"18","keith-sargeant",16
+16,"Florida","9-4",640,"20","keith-sargeant",16
+17,"Miami","9-4",338,"-","keith-sargeant",16
+18,"Auburn","8-5",206,"17","keith-sargeant",16
+19,"LSU","8-4",651,"19","keith-sargeant",16
+20,"Louisville","9-4",277,"15","keith-sargeant",16
+21,"West Virginia","10-3",368,"14","keith-sargeant",16
+22,"Tennessee","9-4",253,"-","keith-sargeant",16
+23,"South Florida","11-2",358,"25","keith-sargeant",16
+24,"San Diego State","11-3",113,"-","keith-sargeant",16
+25,"Utah","9-4",222,"-","keith-sargeant",16
+1,"Clemson","14-1",1500,"3","kirk-bohls",16
+2,"Alabama","14-1",1440,"1","kirk-bohls",16
+3,"USC","10-3",1292,"9","kirk-bohls",16
+4,"Penn State","11-3",1130,"5","kirk-bohls",16
+5,"Oklahoma","11-2",1252,"7","kirk-bohls",16
+6,"Washington","12-2",1277,"4","kirk-bohls",16
+7,"Ohio State","11-2",1240,"2","kirk-bohls",16
+8,"Wisconsin","11-3",1032,"8","kirk-bohls",16
+9,"Florida State","10-3",1105,"10","kirk-bohls",16
+10,"Oklahoma State","10-3",920,"13","kirk-bohls",16
+11,"Michigan","10-3",1001,"6","kirk-bohls",16
+12,"Western Michigan","13-1",619,"12","kirk-bohls",16
+13,"Virginia Tech","10-4",610,"18","kirk-bohls",16
+14,"Stanford","10-3",730,"16","kirk-bohls",16
+15,"South Florida","11-2",358,"25","kirk-bohls",16
+16,"Colorado","10-4",585,"11","kirk-bohls",16
+17,"Florida","9-4",640,"20","kirk-bohls",16
+18,"Miami","9-4",338,"-","kirk-bohls",16
+19,"West Virginia","10-3",368,"14","kirk-bohls",16
+20,"LSU","8-4",651,"19","kirk-bohls",16
+21,"Air Force","10-3",30,"-","kirk-bohls",16
+22,"San Diego State","11-3",113,"-","kirk-bohls",16
+23,"Western Kentucky","11-3",32,"-","kirk-bohls",16
+24,"Kansas State","9-4",83,"-","kirk-bohls",16
+25,"Pittsburgh","8-5",21,"22","kirk-bohls",16
+1,"Clemson","14-1",1500,"3","mandy-mitchell",16
+2,"Alabama","14-1",1440,"1","mandy-mitchell",16
+3,"USC","10-3",1292,"9","mandy-mitchell",16
+4,"Washington","12-2",1277,"4","mandy-mitchell",16
+5,"Penn State","11-3",1130,"5","mandy-mitchell",16
+6,"Ohio State","11-2",1240,"2","mandy-mitchell",16
+7,"Oklahoma","11-2",1252,"7","mandy-mitchell",16
+8,"Wisconsin","11-3",1032,"8","mandy-mitchell",16
+9,"Michigan","10-3",1001,"6","mandy-mitchell",16
+10,"Florida State","10-3",1105,"10","mandy-mitchell",16
+11,"Oklahoma State","10-3",920,"13","mandy-mitchell",16
+12,"Virginia Tech","10-4",610,"18","mandy-mitchell",16
+13,"Stanford","10-3",730,"16","mandy-mitchell",16
+14,"Western Michigan","13-1",619,"12","mandy-mitchell",16
+15,"Colorado","10-4",585,"11","mandy-mitchell",16
+16,"Florida","9-4",640,"20","mandy-mitchell",16
+17,"Utah","9-4",222,"-","mandy-mitchell",16
+18,"West Virginia","10-3",368,"14","mandy-mitchell",16
+19,"LSU","8-4",651,"19","mandy-mitchell",16
+20,"South Florida","11-2",358,"25","mandy-mitchell",16
+21,"Miami","9-4",338,"-","mandy-mitchell",16
+22,"Auburn","8-5",206,"17","mandy-mitchell",16
+23,"Louisville","9-4",277,"15","mandy-mitchell",16
+24,"Tennessee","9-4",253,"-","mandy-mitchell",16
+25,"San Diego State","11-3",113,"-","mandy-mitchell",16
+1,"Clemson","14-1",1500,"3","marc-weiszer",16
+2,"Alabama","14-1",1440,"1","marc-weiszer",16
+3,"Washington","12-2",1277,"4","marc-weiszer",16
+4,"Oklahoma","11-2",1252,"7","marc-weiszer",16
+5,"Ohio State","11-2",1240,"2","marc-weiszer",16
+6,"USC","10-3",1292,"9","marc-weiszer",16
+7,"Florida State","10-3",1105,"10","marc-weiszer",16
+8,"Penn State","11-3",1130,"5","marc-weiszer",16
+9,"Michigan","10-3",1001,"6","marc-weiszer",16
+10,"Wisconsin","11-3",1032,"8","marc-weiszer",16
+11,"Oklahoma State","10-3",920,"13","marc-weiszer",16
+12,"Virginia Tech","10-4",610,"18","marc-weiszer",16
+13,"Stanford","10-3",730,"16","marc-weiszer",16
+14,"Western Michigan","13-1",619,"12","marc-weiszer",16
+15,"Florida","9-4",640,"20","marc-weiszer",16
+16,"Colorado","10-4",585,"11","marc-weiszer",16
+17,"LSU","8-4",651,"19","marc-weiszer",16
+18,"Kansas State","9-4",83,"-","marc-weiszer",16
+19,"South Florida","11-2",358,"25","marc-weiszer",16
+20,"San Diego State","11-3",113,"-","marc-weiszer",16
+21,"West Virginia","10-3",368,"14","marc-weiszer",16
+22,"Louisville","9-4",277,"15","marc-weiszer",16
+23,"Western Kentucky","11-3",32,"-","marc-weiszer",16
+24,"Miami","9-4",338,"-","marc-weiszer",16
+25,"Georgia Tech","9-4",47,"-","marc-weiszer",16
+1,"Clemson","14-1",1500,"3","matt-charboneau",16
+2,"Alabama","14-1",1440,"1","matt-charboneau",16
+3,"Washington","12-2",1277,"4","matt-charboneau",16
+4,"Ohio State","11-2",1240,"2","matt-charboneau",16
+5,"Oklahoma","11-2",1252,"7","matt-charboneau",16
+6,"Wisconsin","11-3",1032,"8","matt-charboneau",16
+7,"USC","10-3",1292,"9","matt-charboneau",16
+8,"Oklahoma State","10-3",920,"13","matt-charboneau",16
+9,"Florida State","10-3",1105,"10","matt-charboneau",16
+10,"Michigan","10-3",1001,"6","matt-charboneau",16
+11,"Penn State","11-3",1130,"5","matt-charboneau",16
+12,"Stanford","10-3",730,"16","matt-charboneau",16
+13,"Florida","9-4",640,"20","matt-charboneau",16
+14,"Virginia Tech","10-4",610,"18","matt-charboneau",16
+15,"LSU","8-4",651,"19","matt-charboneau",16
+16,"Air Force","10-3",30,"-","matt-charboneau",16
+17,"Western Michigan","13-1",619,"12","matt-charboneau",16
+18,"Colorado","10-4",585,"11","matt-charboneau",16
+19,"South Florida","11-2",358,"25","matt-charboneau",16
+20,"San Diego State","11-3",113,"-","matt-charboneau",16
+21,"West Virginia","10-3",368,"14","matt-charboneau",16
+22,"Tennessee","9-4",253,"-","matt-charboneau",16
+23,"Miami","9-4",338,"-","matt-charboneau",16
+24,"Utah","9-4",222,"-","matt-charboneau",16
+25,"Louisville","9-4",277,"15","matt-charboneau",16
+1,"Clemson","14-1",1500,"3","matt-galloway",16
+2,"Alabama","14-1",1440,"1","matt-galloway",16
+3,"Washington","12-2",1277,"4","matt-galloway",16
+4,"Ohio State","11-2",1240,"2","matt-galloway",16
+5,"USC","10-3",1292,"9","matt-galloway",16
+6,"Penn State","11-3",1130,"5","matt-galloway",16
+7,"Oklahoma","11-2",1252,"7","matt-galloway",16
+8,"Florida State","10-3",1105,"10","matt-galloway",16
+9,"Wisconsin","11-3",1032,"8","matt-galloway",16
+10,"Oklahoma State","10-3",920,"13","matt-galloway",16
+11,"Michigan","10-3",1001,"6","matt-galloway",16
+12,"Stanford","10-3",730,"16","matt-galloway",16
+13,"Virginia Tech","10-4",610,"18","matt-galloway",16
+14,"Western Michigan","13-1",619,"12","matt-galloway",16
+15,"Colorado","10-4",585,"11","matt-galloway",16
+16,"West Virginia","10-3",368,"14","matt-galloway",16
+17,"Utah","9-4",222,"-","matt-galloway",16
+18,"Kansas State","9-4",83,"-","matt-galloway",16
+19,"Florida","9-4",640,"20","matt-galloway",16
+20,"LSU","8-4",651,"19","matt-galloway",16
+21,"South Florida","11-2",358,"25","matt-galloway",16
+22,"Tennessee","9-4",253,"-","matt-galloway",16
+23,"Auburn","8-5",206,"17","matt-galloway",16
+24,"Miami","9-4",338,"-","matt-galloway",16
+25,"Georgia Tech","9-4",47,"-","matt-galloway",16
+1,"Clemson","14-1",1500,"3","matt-mccoy",16
+2,"Alabama","14-1",1440,"1","matt-mccoy",16
+3,"USC","10-3",1292,"9","matt-mccoy",16
+4,"Washington","12-2",1277,"4","matt-mccoy",16
+5,"Ohio State","11-2",1240,"2","matt-mccoy",16
+6,"Oklahoma","11-2",1252,"7","matt-mccoy",16
+7,"Florida State","10-3",1105,"10","matt-mccoy",16
+8,"Michigan","10-3",1001,"6","matt-mccoy",16
+9,"Penn State","11-3",1130,"5","matt-mccoy",16
+10,"Wisconsin","11-3",1032,"8","matt-mccoy",16
+11,"Oklahoma State","10-3",920,"13","matt-mccoy",16
+12,"Florida","9-4",640,"20","matt-mccoy",16
+13,"Virginia Tech","10-4",610,"18","matt-mccoy",16
+14,"Stanford","10-3",730,"16","matt-mccoy",16
+15,"LSU","8-4",651,"19","matt-mccoy",16
+16,"South Florida","11-2",358,"25","matt-mccoy",16
+17,"Colorado","10-4",585,"11","matt-mccoy",16
+18,"Western Michigan","13-1",619,"12","matt-mccoy",16
+19,"Miami","9-4",338,"-","matt-mccoy",16
+20,"West Virginia","10-3",368,"14","matt-mccoy",16
+21,"Tennessee","9-4",253,"-","matt-mccoy",16
+22,"Utah","9-4",222,"-","matt-mccoy",16
+23,"Louisville","9-4",277,"15","matt-mccoy",16
+24,"San Diego State","11-3",113,"-","matt-mccoy",16
+25,"Nebraska","9-4",38,"24","matt-mccoy",16
+1,"Clemson","14-1",1500,"3","matt-porter",16
+2,"Alabama","14-1",1440,"1","matt-porter",16
+3,"Washington","12-2",1277,"4","matt-porter",16
+4,"USC","10-3",1292,"9","matt-porter",16
+5,"Penn State","11-3",1130,"5","matt-porter",16
+6,"Ohio State","11-2",1240,"2","matt-porter",16
+7,"Oklahoma","11-2",1252,"7","matt-porter",16
+8,"Florida State","10-3",1105,"10","matt-porter",16
+9,"Michigan","10-3",1001,"6","matt-porter",16
+10,"Wisconsin","11-3",1032,"8","matt-porter",16
+11,"Western Michigan","13-1",619,"12","matt-porter",16
+12,"Oklahoma State","10-3",920,"13","matt-porter",16
+13,"Stanford","10-3",730,"16","matt-porter",16
+14,"Florida","9-4",640,"20","matt-porter",16
+15,"LSU","8-4",651,"19","matt-porter",16
+16,"Virginia Tech","10-4",610,"18","matt-porter",16
+17,"Miami","9-4",338,"-","matt-porter",16
+18,"South Florida","11-2",358,"25","matt-porter",16
+19,"San Diego State","11-3",113,"-","matt-porter",16
+20,"Tennessee","9-4",253,"-","matt-porter",16
+21,"Colorado","10-4",585,"11","matt-porter",16
+22,"West Virginia","10-3",368,"14","matt-porter",16
+23,"Louisville","9-4",277,"15","matt-porter",16
+24,"Western Kentucky","11-3",32,"-","matt-porter",16
+25,"Georgia Tech","9-4",47,"-","matt-porter",16
+1,"Clemson","14-1",1500,"3","michael-bonner",16
+2,"Alabama","14-1",1440,"1","michael-bonner",16
+3,"Washington","12-2",1277,"4","michael-bonner",16
+4,"Ohio State","11-2",1240,"2","michael-bonner",16
+5,"Oklahoma","11-2",1252,"7","michael-bonner",16
+6,"USC","10-3",1292,"9","michael-bonner",16
+7,"Florida State","10-3",1105,"10","michael-bonner",16
+8,"Wisconsin","11-3",1032,"8","michael-bonner",16
+9,"Michigan","10-3",1001,"6","michael-bonner",16
+10,"Penn State","11-3",1130,"5","michael-bonner",16
+11,"Oklahoma State","10-3",920,"13","michael-bonner",16
+12,"Colorado","10-4",585,"11","michael-bonner",16
+13,"Western Michigan","13-1",619,"12","michael-bonner",16
+14,"Florida","9-4",640,"20","michael-bonner",16
+15,"Stanford","10-3",730,"16","michael-bonner",16
+16,"South Florida","11-2",358,"25","michael-bonner",16
+17,"West Virginia","10-3",368,"14","michael-bonner",16
+18,"Boise State","10-3",19,"-","michael-bonner",16
+19,"LSU","8-4",651,"19","michael-bonner",16
+20,"San Diego State","11-3",113,"-","michael-bonner",16
+21,"Nebraska","9-4",38,"24","michael-bonner",16
+22,"Louisville","9-4",277,"15","michael-bonner",16
+23,"Virginia Tech","10-4",610,"18","michael-bonner",16
+24,"Air Force","10-3",30,"-","michael-bonner",16
+25,"Western Kentucky","11-3",32,"-","michael-bonner",16
+1,"Clemson","14-1",1500,"3","michael-lev",16
+2,"Alabama","14-1",1440,"1","michael-lev",16
+3,"Oklahoma","11-2",1252,"7","michael-lev",16
+4,"USC","10-3",1292,"9","michael-lev",16
+5,"Ohio State","11-2",1240,"2","michael-lev",16
+6,"Washington","12-2",1277,"4","michael-lev",16
+7,"Florida State","10-3",1105,"10","michael-lev",16
+8,"Michigan","10-3",1001,"6","michael-lev",16
+9,"Penn State","11-3",1130,"5","michael-lev",16
+10,"Wisconsin","11-3",1032,"8","michael-lev",16
+11,"Oklahoma State","10-3",920,"13","michael-lev",16
+12,"Stanford","10-3",730,"16","michael-lev",16
+13,"Virginia Tech","10-4",610,"18","michael-lev",16
+14,"West Virginia","10-3",368,"14","michael-lev",16
+15,"South Florida","11-2",358,"25","michael-lev",16
+16,"Western Michigan","13-1",619,"12","michael-lev",16
+17,"Miami","9-4",338,"-","michael-lev",16
+18,"Kansas State","9-4",83,"-","michael-lev",16
+19,"Florida","9-4",640,"20","michael-lev",16
+20,"LSU","8-4",651,"19","michael-lev",16
+21,"Colorado","10-4",585,"11","michael-lev",16
+22,"San Diego State","11-3",113,"-","michael-lev",16
+23,"Brigham Young","9-4",9,"-","michael-lev",16
+24,"Georgia Tech","9-4",47,"-","michael-lev",16
+25,"Tennessee","9-4",253,"-","michael-lev",16
+1,"Clemson","14-1",1500,"3","mike-barber",16
+2,"Alabama","14-1",1440,"1","mike-barber",16
+3,"Ohio State","11-2",1240,"2","mike-barber",16
+4,"USC","10-3",1292,"9","mike-barber",16
+5,"Penn State","11-3",1130,"5","mike-barber",16
+6,"Washington","12-2",1277,"4","mike-barber",16
+7,"Wisconsin","11-3",1032,"8","mike-barber",16
+8,"Oklahoma","11-2",1252,"7","mike-barber",16
+9,"Florida State","10-3",1105,"10","mike-barber",16
+10,"Oklahoma State","10-3",920,"13","mike-barber",16
+11,"Michigan","10-3",1001,"6","mike-barber",16
+12,"Colorado","10-4",585,"11","mike-barber",16
+13,"Auburn","8-5",206,"17","mike-barber",16
+14,"Louisville","9-4",277,"15","mike-barber",16
+15,"Florida","9-4",640,"20","mike-barber",16
+16,"Virginia Tech","10-4",610,"18","mike-barber",16
+17,"Western Michigan","13-1",619,"12","mike-barber",16
+18,"Stanford","10-3",730,"16","mike-barber",16
+19,"Miami","9-4",338,"-","mike-barber",16
+20,"LSU","8-4",651,"19","mike-barber",16
+21,"Tennessee","9-4",253,"-","mike-barber",16
+22,"Nebraska","9-4",38,"24","mike-barber",16
+23,"West Virginia","10-3",368,"14","mike-barber",16
+24,"Utah","9-4",222,"-","mike-barber",16
+25,"South Florida","11-2",358,"25","mike-barber",16
+1,"Clemson","14-1",1500,"3","mitch-vingle",16
+2,"Alabama","14-1",1440,"1","mitch-vingle",16
+3,"Oklahoma","11-2",1252,"7","mitch-vingle",16
+4,"Washington","12-2",1277,"4","mitch-vingle",16
+5,"USC","10-3",1292,"9","mitch-vingle",16
+6,"Penn State","11-3",1130,"5","mitch-vingle",16
+7,"Ohio State","11-2",1240,"2","mitch-vingle",16
+8,"Florida State","10-3",1105,"10","mitch-vingle",16
+9,"Michigan","10-3",1001,"6","mitch-vingle",16
+10,"Wisconsin","11-3",1032,"8","mitch-vingle",16
+11,"Oklahoma State","10-3",920,"13","mitch-vingle",16
+12,"Western Michigan","13-1",619,"12","mitch-vingle",16
+13,"LSU","8-4",651,"19","mitch-vingle",16
+14,"Stanford","10-3",730,"16","mitch-vingle",16
+15,"Virginia Tech","10-4",610,"18","mitch-vingle",16
+16,"Florida","9-4",640,"20","mitch-vingle",16
+17,"Miami","9-4",338,"-","mitch-vingle",16
+18,"Auburn","8-5",206,"17","mitch-vingle",16
+19,"Louisville","9-4",277,"15","mitch-vingle",16
+20,"West Virginia","10-3",368,"14","mitch-vingle",16
+21,"Colorado","10-4",585,"11","mitch-vingle",16
+22,"South Florida","11-2",358,"25","mitch-vingle",16
+23,"Kansas State","9-4",83,"-","mitch-vingle",16
+24,"Tennessee","9-4",253,"-","mitch-vingle",16
+25,"Georgia Tech","9-4",47,"-","mitch-vingle",16
+1,"Clemson","14-1",1500,"3","nathan-deen",16
+2,"Alabama","14-1",1440,"1","nathan-deen",16
+3,"Washington","12-2",1277,"4","nathan-deen",16
+4,"Ohio State","11-2",1240,"2","nathan-deen",16
+5,"Oklahoma","11-2",1252,"7","nathan-deen",16
+6,"USC","10-3",1292,"9","nathan-deen",16
+7,"Wisconsin","11-3",1032,"8","nathan-deen",16
+8,"Oklahoma State","10-3",920,"13","nathan-deen",16
+9,"Florida State","10-3",1105,"10","nathan-deen",16
+10,"Michigan","10-3",1001,"6","nathan-deen",16
+11,"Penn State","11-3",1130,"5","nathan-deen",16
+12,"Western Michigan","13-1",619,"12","nathan-deen",16
+13,"Stanford","10-3",730,"16","nathan-deen",16
+14,"Tennessee","9-4",253,"-","nathan-deen",16
+15,"Virginia Tech","10-4",610,"18","nathan-deen",16
+16,"Florida","9-4",640,"20","nathan-deen",16
+17,"LSU","8-4",651,"19","nathan-deen",16
+18,"Colorado","10-4",585,"11","nathan-deen",16
+19,"West Virginia","10-3",368,"14","nathan-deen",16
+20,"South Florida","11-2",358,"25","nathan-deen",16
+21,"Utah","9-4",222,"-","nathan-deen",16
+22,"Miami","9-4",338,"-","nathan-deen",16
+23,"Georgia Tech","9-4",47,"-","nathan-deen",16
+24,"Kansas State","9-4",83,"-","nathan-deen",16
+25,"Louisville","9-4",277,"15","nathan-deen",16
+1,"Clemson","14-1",1500,"3","pat-caputo",16
+2,"Alabama","14-1",1440,"1","pat-caputo",16
+3,"USC","10-3",1292,"9","pat-caputo",16
+4,"Oklahoma","11-2",1252,"7","pat-caputo",16
+5,"Washington","12-2",1277,"4","pat-caputo",16
+6,"Florida State","10-3",1105,"10","pat-caputo",16
+7,"Penn State","11-3",1130,"5","pat-caputo",16
+8,"Ohio State","11-2",1240,"2","pat-caputo",16
+9,"Michigan","10-3",1001,"6","pat-caputo",16
+10,"Wisconsin","11-3",1032,"8","pat-caputo",16
+11,"Oklahoma State","10-3",920,"13","pat-caputo",16
+12,"Stanford","10-3",730,"16","pat-caputo",16
+13,"Florida","9-4",640,"20","pat-caputo",16
+14,"LSU","8-4",651,"19","pat-caputo",16
+15,"Virginia Tech","10-4",610,"18","pat-caputo",16
+16,"Auburn","8-5",206,"17","pat-caputo",16
+17,"Tennessee","9-4",253,"-","pat-caputo",16
+18,"Colorado","10-4",585,"11","pat-caputo",16
+19,"Utah","9-4",222,"-","pat-caputo",16
+20,"Louisville","9-4",277,"15","pat-caputo",16
+21,"Miami","9-4",338,"-","pat-caputo",16
+22,"South Florida","11-2",358,"25","pat-caputo",16
+23,"West Virginia","10-3",368,"14","pat-caputo",16
+24,"San Diego State","11-3",113,"-","pat-caputo",16
+25,"Western Michigan","13-1",619,"12","pat-caputo",16
+1,"Clemson","14-1",1500,"3","patrick-brown",16
+2,"Alabama","14-1",1440,"1","patrick-brown",16
+3,"USC","10-3",1292,"9","patrick-brown",16
+4,"Penn State","11-3",1130,"5","patrick-brown",16
+5,"Washington","12-2",1277,"4","patrick-brown",16
+6,"Ohio State","11-2",1240,"2","patrick-brown",16
+7,"Oklahoma","11-2",1252,"7","patrick-brown",16
+8,"Florida State","10-3",1105,"10","patrick-brown",16
+9,"Michigan","10-3",1001,"6","patrick-brown",16
+10,"Wisconsin","11-3",1032,"8","patrick-brown",16
+11,"Oklahoma State","10-3",920,"13","patrick-brown",16
+12,"LSU","8-4",651,"19","patrick-brown",16
+13,"Colorado","10-4",585,"11","patrick-brown",16
+14,"Western Michigan","13-1",619,"12","patrick-brown",16
+15,"Stanford","10-3",730,"16","patrick-brown",16
+16,"Virginia Tech","10-4",610,"18","patrick-brown",16
+17,"Pittsburgh","8-5",21,"22","patrick-brown",16
+18,"South Florida","11-2",358,"25","patrick-brown",16
+19,"Utah","9-4",222,"-","patrick-brown",16
+20,"Tennessee","9-4",253,"-","patrick-brown",16
+21,"Florida","9-4",640,"20","patrick-brown",16
+22,"Miami","9-4",338,"-","patrick-brown",16
+23,"Auburn","8-5",206,"17","patrick-brown",16
+24,"West Virginia","10-3",368,"14","patrick-brown",16
+25,"Georgia Tech","9-4",47,"-","patrick-brown",16
+1,"Clemson","14-1",1500,"3","pete-diprimio",16
+2,"Alabama","14-1",1440,"1","pete-diprimio",16
+3,"USC","10-3",1292,"9","pete-diprimio",16
+4,"Oklahoma","11-2",1252,"7","pete-diprimio",16
+5,"Florida State","10-3",1105,"10","pete-diprimio",16
+6,"Washington","12-2",1277,"4","pete-diprimio",16
+7,"Penn State","11-3",1130,"5","pete-diprimio",16
+8,"Wisconsin","11-3",1032,"8","pete-diprimio",16
+9,"Oklahoma State","10-3",920,"13","pete-diprimio",16
+10,"Ohio State","11-2",1240,"2","pete-diprimio",16
+11,"Michigan","10-3",1001,"6","pete-diprimio",16
+12,"Stanford","10-3",730,"16","pete-diprimio",16
+13,"Western Michigan","13-1",619,"12","pete-diprimio",16
+14,"LSU","8-4",651,"19","pete-diprimio",16
+15,"Virginia Tech","10-4",610,"18","pete-diprimio",16
+16,"Colorado","10-4",585,"11","pete-diprimio",16
+17,"Florida","9-4",640,"20","pete-diprimio",16
+18,"South Florida","11-2",358,"25","pete-diprimio",16
+19,"Miami","9-4",338,"-","pete-diprimio",16
+20,"West Virginia","10-3",368,"14","pete-diprimio",16
+21,"Louisville","9-4",277,"15","pete-diprimio",16
+22,"Houston","9-4",8,"-","pete-diprimio",16
+23,"Utah","9-4",222,"-","pete-diprimio",16
+24,"Boise State","10-3",19,"-","pete-diprimio",16
+25,"Tennessee","9-4",253,"-","pete-diprimio",16
+1,"Clemson","14-1",1500,"3","rob-long",16
+2,"Alabama","14-1",1440,"1","rob-long",16
+3,"Oklahoma","11-2",1252,"7","rob-long",16
+4,"Washington","12-2",1277,"4","rob-long",16
+5,"USC","10-3",1292,"9","rob-long",16
+6,"Wisconsin","11-3",1032,"8","rob-long",16
+7,"Florida State","10-3",1105,"10","rob-long",16
+8,"Ohio State","11-2",1240,"2","rob-long",16
+9,"Penn State","11-3",1130,"5","rob-long",16
+10,"Oklahoma State","10-3",920,"13","rob-long",16
+11,"Stanford","10-3",730,"16","rob-long",16
+12,"Western Michigan","13-1",619,"12","rob-long",16
+13,"Michigan","10-3",1001,"6","rob-long",16
+14,"Colorado","10-4",585,"11","rob-long",16
+15,"Nebraska","9-4",38,"24","rob-long",16
+16,"Virginia Tech","10-4",610,"18","rob-long",16
+17,"Miami","9-4",338,"-","rob-long",16
+18,"West Virginia","10-3",368,"14","rob-long",16
+19,"Florida","9-4",640,"20","rob-long",16
+20,"Auburn","8-5",206,"17","rob-long",16
+21,"Louisville","9-4",277,"15","rob-long",16
+22,"Boise State","10-3",19,"-","rob-long",16
+23,"Iowa","8-5",14,"21","rob-long",16
+24,"Houston","9-4",8,"-","rob-long",16
+25,"Navy","9-5",1,"-","rob-long",16
+1,"Clemson","14-1",1500,"3","robert-cessna",16
+2,"Alabama","14-1",1440,"1","robert-cessna",16
+3,"Washington","12-2",1277,"4","robert-cessna",16
+4,"Ohio State","11-2",1240,"2","robert-cessna",16
+5,"Oklahoma","11-2",1252,"7","robert-cessna",16
+6,"USC","10-3",1292,"9","robert-cessna",16
+7,"Florida State","10-3",1105,"10","robert-cessna",16
+8,"Penn State","11-3",1130,"5","robert-cessna",16
+9,"Michigan","10-3",1001,"6","robert-cessna",16
+10,"Oklahoma State","10-3",920,"13","robert-cessna",16
+11,"Wisconsin","11-3",1032,"8","robert-cessna",16
+12,"LSU","8-4",651,"19","robert-cessna",16
+13,"Virginia Tech","10-4",610,"18","robert-cessna",16
+14,"Miami","9-4",338,"-","robert-cessna",16
+15,"West Virginia","10-3",368,"14","robert-cessna",16
+16,"Colorado","10-4",585,"11","robert-cessna",16
+17,"Stanford","10-3",730,"16","robert-cessna",16
+18,"Louisville","9-4",277,"15","robert-cessna",16
+19,"Florida","9-4",640,"20","robert-cessna",16
+20,"Western Michigan","13-1",619,"12","robert-cessna",16
+21,"Tennessee","9-4",253,"-","robert-cessna",16
+22,"South Florida","11-2",358,"25","robert-cessna",16
+23,"San Diego State","11-3",113,"-","robert-cessna",16
+24,"Georgia Tech","9-4",47,"-","robert-cessna",16
+25,"Minnesota","9-4",12,"-","robert-cessna",16
+1,"Clemson","14-1",1500,"3","robert-gagliardi",16
+2,"Alabama","14-1",1440,"1","robert-gagliardi",16
+3,"Washington","12-2",1277,"4","robert-gagliardi",16
+4,"Oklahoma","11-2",1252,"7","robert-gagliardi",16
+5,"USC","10-3",1292,"9","robert-gagliardi",16
+6,"Florida State","10-3",1105,"10","robert-gagliardi",16
+7,"Ohio State","11-2",1240,"2","robert-gagliardi",16
+8,"Michigan","10-3",1001,"6","robert-gagliardi",16
+9,"Wisconsin","11-3",1032,"8","robert-gagliardi",16
+10,"Oklahoma State","10-3",920,"13","robert-gagliardi",16
+11,"Penn State","11-3",1130,"5","robert-gagliardi",16
+12,"Stanford","10-3",730,"16","robert-gagliardi",16
+13,"LSU","8-4",651,"19","robert-gagliardi",16
+14,"South Florida","11-2",358,"25","robert-gagliardi",16
+15,"Virginia Tech","10-4",610,"18","robert-gagliardi",16
+16,"Florida","9-4",640,"20","robert-gagliardi",16
+17,"West Virginia","10-3",368,"14","robert-gagliardi",16
+18,"Western Michigan","13-1",619,"12","robert-gagliardi",16
+19,"Louisville","9-4",277,"15","robert-gagliardi",16
+20,"Colorado","10-4",585,"11","robert-gagliardi",16
+21,"Utah","9-4",222,"-","robert-gagliardi",16
+22,"Tennessee","9-4",253,"-","robert-gagliardi",16
+23,"San Diego State","11-3",113,"-","robert-gagliardi",16
+24,"Georgia Tech","9-4",47,"-","robert-gagliardi",16
+25,"Western Kentucky","11-3",32,"-","robert-gagliardi",16
+1,"Clemson","14-1",1500,"3","ross-dellenger",16
+2,"Alabama","14-1",1440,"1","ross-dellenger",16
+3,"Washington","12-2",1277,"4","ross-dellenger",16
+4,"Ohio State","11-2",1240,"2","ross-dellenger",16
+5,"Oklahoma","11-2",1252,"7","ross-dellenger",16
+6,"USC","10-3",1292,"9","ross-dellenger",16
+7,"Wisconsin","11-3",1032,"8","ross-dellenger",16
+8,"Florida State","10-3",1105,"10","ross-dellenger",16
+9,"Michigan","10-3",1001,"6","ross-dellenger",16
+10,"Penn State","11-3",1130,"5","ross-dellenger",16
+11,"Oklahoma State","10-3",920,"13","ross-dellenger",16
+12,"Stanford","10-3",730,"16","ross-dellenger",16
+13,"LSU","8-4",651,"19","ross-dellenger",16
+14,"Virginia Tech","10-4",610,"18","ross-dellenger",16
+15,"Florida","9-4",640,"20","ross-dellenger",16
+16,"Colorado","10-4",585,"11","ross-dellenger",16
+17,"Western Michigan","13-1",619,"12","ross-dellenger",16
+18,"Minnesota","9-4",12,"-","ross-dellenger",16
+19,"Miami","9-4",338,"-","ross-dellenger",16
+20,"West Virginia","10-3",368,"14","ross-dellenger",16
+21,"Auburn","8-5",206,"17","ross-dellenger",16
+22,"Utah","9-4",222,"-","ross-dellenger",16
+23,"South Florida","11-2",358,"25","ross-dellenger",16
+24,"Tennessee","9-4",253,"-","ross-dellenger",16
+25,"Kansas State","9-4",83,"-","ross-dellenger",16
+1,"Clemson","14-1",1500,"3","sam-mckewon",16
+2,"Alabama","14-1",1440,"1","sam-mckewon",16
+3,"USC","10-3",1292,"9","sam-mckewon",16
+4,"Washington","12-2",1277,"4","sam-mckewon",16
+5,"Florida State","10-3",1105,"10","sam-mckewon",16
+6,"Oklahoma","11-2",1252,"7","sam-mckewon",16
+7,"Ohio State","11-2",1240,"2","sam-mckewon",16
+8,"Michigan","10-3",1001,"6","sam-mckewon",16
+9,"Penn State","11-3",1130,"5","sam-mckewon",16
+10,"Wisconsin","11-3",1032,"8","sam-mckewon",16
+11,"LSU","8-4",651,"19","sam-mckewon",16
+12,"Oklahoma State","10-3",920,"13","sam-mckewon",16
+13,"Colorado","10-4",585,"11","sam-mckewon",16
+14,"Stanford","10-3",730,"16","sam-mckewon",16
+15,"Utah","9-4",222,"-","sam-mckewon",16
+16,"Louisville","9-4",277,"15","sam-mckewon",16
+17,"Tennessee","9-4",253,"-","sam-mckewon",16
+18,"Miami","9-4",338,"-","sam-mckewon",16
+19,"Florida","9-4",640,"20","sam-mckewon",16
+20,"Western Michigan","13-1",619,"12","sam-mckewon",16
+21,"Kansas State","9-4",83,"-","sam-mckewon",16
+22,"Virginia Tech","10-4",610,"18","sam-mckewon",16
+23,"San Diego State","11-3",113,"-","sam-mckewon",16
+24,"Brigham Young","9-4",9,"-","sam-mckewon",16
+25,"South Florida","11-2",358,"25","sam-mckewon",16
+1,"Clemson","14-1",1500,"3","scott-hamilton",16
+2,"Alabama","14-1",1440,"1","scott-hamilton",16
+3,"Washington","12-2",1277,"4","scott-hamilton",16
+4,"Ohio State","11-2",1240,"2","scott-hamilton",16
+5,"USC","10-3",1292,"9","scott-hamilton",16
+6,"Oklahoma","11-2",1252,"7","scott-hamilton",16
+7,"Penn State","11-3",1130,"5","scott-hamilton",16
+8,"Wisconsin","11-3",1032,"8","scott-hamilton",16
+9,"Florida State","10-3",1105,"10","scott-hamilton",16
+10,"Michigan","10-3",1001,"6","scott-hamilton",16
+11,"Oklahoma State","10-3",920,"13","scott-hamilton",16
+12,"LSU","8-4",651,"19","scott-hamilton",16
+13,"Stanford","10-3",730,"16","scott-hamilton",16
+14,"Virginia Tech","10-4",610,"18","scott-hamilton",16
+15,"Colorado","10-4",585,"11","scott-hamilton",16
+16,"Florida","9-4",640,"20","scott-hamilton",16
+17,"Western Michigan","13-1",619,"12","scott-hamilton",16
+18,"West Virginia","10-3",368,"14","scott-hamilton",16
+19,"South Florida","11-2",358,"25","scott-hamilton",16
+20,"Auburn","8-5",206,"17","scott-hamilton",16
+21,"Georgia Tech","9-4",47,"-","scott-hamilton",16
+22,"Utah","9-4",222,"-","scott-hamilton",16
+23,"Miami","9-4",338,"-","scott-hamilton",16
+24,"Tennessee","9-4",253,"-","scott-hamilton",16
+25,"San Diego State","11-3",113,"-","scott-hamilton",16
+1,"Clemson","14-1",1500,"3","scott-wolf",16
+2,"Alabama","14-1",1440,"1","scott-wolf",16
+3,"Oklahoma","11-2",1252,"7","scott-wolf",16
+4,"Ohio State","11-2",1240,"2","scott-wolf",16
+5,"Florida State","10-3",1105,"10","scott-wolf",16
+6,"Oklahoma State","10-3",920,"13","scott-wolf",16
+7,"Michigan","10-3",1001,"6","scott-wolf",16
+8,"USC","10-3",1292,"9","scott-wolf",16
+9,"Penn State","11-3",1130,"5","scott-wolf",16
+10,"Washington","12-2",1277,"4","scott-wolf",16
+11,"Wisconsin","11-3",1032,"8","scott-wolf",16
+12,"Western Michigan","13-1",619,"12","scott-wolf",16
+13,"Florida","9-4",640,"20","scott-wolf",16
+14,"Virginia Tech","10-4",610,"18","scott-wolf",16
+15,"Stanford","10-3",730,"16","scott-wolf",16
+16,"LSU","8-4",651,"19","scott-wolf",16
+17,"West Virginia","10-3",368,"14","scott-wolf",16
+18,"Colorado","10-4",585,"11","scott-wolf",16
+19,"Auburn","8-5",206,"17","scott-wolf",16
+20,"Louisville","9-4",277,"15","scott-wolf",16
+21,"Nebraska","9-4",38,"24","scott-wolf",16
+22,"San Diego State","11-3",113,"-","scott-wolf",16
+23,"South Florida","11-2",358,"25","scott-wolf",16
+24,"Tennessee","9-4",253,"-","scott-wolf",16
+25,"Georgia Tech","9-4",47,"-","scott-wolf",16
+1,"Clemson","14-1",1500,"3","steve-batterson",16
+2,"Alabama","14-1",1440,"1","steve-batterson",16
+3,"Ohio State","11-2",1240,"2","steve-batterson",16
+4,"Oklahoma","11-2",1252,"7","steve-batterson",16
+5,"USC","10-3",1292,"9","steve-batterson",16
+6,"Washington","12-2",1277,"4","steve-batterson",16
+7,"Penn State","11-3",1130,"5","steve-batterson",16
+8,"Wisconsin","11-3",1032,"8","steve-batterson",16
+9,"Florida State","10-3",1105,"10","steve-batterson",16
+10,"Michigan","10-3",1001,"6","steve-batterson",16
+11,"Oklahoma State","10-3",920,"13","steve-batterson",16
+12,"Stanford","10-3",730,"16","steve-batterson",16
+13,"Miami","9-4",338,"-","steve-batterson",16
+14,"LSU","8-4",651,"19","steve-batterson",16
+15,"West Virginia","10-3",368,"14","steve-batterson",16
+16,"Virginia Tech","10-4",610,"18","steve-batterson",16
+17,"Florida","9-4",640,"20","steve-batterson",16
+18,"Colorado","10-4",585,"11","steve-batterson",16
+19,"Western Michigan","13-1",619,"12","steve-batterson",16
+20,"South Florida","11-2",358,"25","steve-batterson",16
+21,"Georgia Tech","9-4",47,"-","steve-batterson",16
+22,"Tennessee","9-4",253,"-","steve-batterson",16
+23,"San Diego State","11-3",113,"-","steve-batterson",16
+24,"Utah","9-4",222,"-","steve-batterson",16
+25,"Louisville","9-4",277,"15","steve-batterson",16
+1,"Clemson","14-1",1500,"3","steve-wiseman",16
+2,"Alabama","14-1",1440,"1","steve-wiseman",16
+3,"Ohio State","11-2",1240,"2","steve-wiseman",16
+4,"Oklahoma","11-2",1252,"7","steve-wiseman",16
+5,"Washington","12-2",1277,"4","steve-wiseman",16
+6,"Florida State","10-3",1105,"10","steve-wiseman",16
+7,"Penn State","11-3",1130,"5","steve-wiseman",16
+8,"Oklahoma State","10-3",920,"13","steve-wiseman",16
+9,"USC","10-3",1292,"9","steve-wiseman",16
+10,"Michigan","10-3",1001,"6","steve-wiseman",16
+11,"Wisconsin","11-3",1032,"8","steve-wiseman",16
+12,"Florida","9-4",640,"20","steve-wiseman",16
+13,"Colorado","10-4",585,"11","steve-wiseman",16
+14,"Utah","9-4",222,"-","steve-wiseman",16
+15,"West Virginia","10-3",368,"14","steve-wiseman",16
+16,"LSU","8-4",651,"19","steve-wiseman",16
+17,"Tennessee","9-4",253,"-","steve-wiseman",16
+18,"Western Michigan","13-1",619,"12","steve-wiseman",16
+19,"Stanford","10-3",730,"16","steve-wiseman",16
+20,"Virginia Tech","10-4",610,"18","steve-wiseman",16
+21,"Boise State","10-3",19,"-","steve-wiseman",16
+22,"Nebraska","9-4",38,"24","steve-wiseman",16
+23,"Louisville","9-4",277,"15","steve-wiseman",16
+24,"South Florida","11-2",358,"25","steve-wiseman",16
+25,"Miami","9-4",338,"-","steve-wiseman",16
+1,"Clemson","14-1",1500,"3","tom-murphy",16
+2,"Alabama","14-1",1440,"1","tom-murphy",16
+3,"Washington","12-2",1277,"4","tom-murphy",16
+4,"Ohio State","11-2",1240,"2","tom-murphy",16
+5,"Oklahoma","11-2",1252,"7","tom-murphy",16
+6,"USC","10-3",1292,"9","tom-murphy",16
+7,"Michigan","10-3",1001,"6","tom-murphy",16
+8,"Wisconsin","11-3",1032,"8","tom-murphy",16
+9,"Florida State","10-3",1105,"10","tom-murphy",16
+10,"Oklahoma State","10-3",920,"13","tom-murphy",16
+11,"Penn State","11-3",1130,"5","tom-murphy",16
+12,"Florida","9-4",640,"20","tom-murphy",16
+13,"LSU","8-4",651,"19","tom-murphy",16
+14,"Virginia Tech","10-4",610,"18","tom-murphy",16
+15,"Miami","9-4",338,"-","tom-murphy",16
+16,"Stanford","10-3",730,"16","tom-murphy",16
+17,"Western Michigan","13-1",619,"12","tom-murphy",16
+18,"West Virginia","10-3",368,"14","tom-murphy",16
+19,"Tennessee","9-4",253,"-","tom-murphy",16
+20,"Louisville","9-4",277,"15","tom-murphy",16
+21,"Colorado","10-4",585,"11","tom-murphy",16
+22,"Utah","9-4",222,"-","tom-murphy",16
+23,"South Florida","11-2",358,"25","tom-murphy",16
+24,"Georgia Tech","9-4",47,"-","tom-murphy",16
+25,"San Diego State","11-3",113,"-","tom-murphy",16
+1,"Clemson","14-1",1500,"3","tony-parks",16
+2,"Alabama","14-1",1440,"1","tony-parks",16
+3,"Washington","12-2",1277,"4","tony-parks",16
+4,"Ohio State","11-2",1240,"2","tony-parks",16
+5,"Oklahoma","11-2",1252,"7","tony-parks",16
+6,"USC","10-3",1292,"9","tony-parks",16
+7,"Florida State","10-3",1105,"10","tony-parks",16
+8,"Michigan","10-3",1001,"6","tony-parks",16
+9,"Penn State","11-3",1130,"5","tony-parks",16
+10,"Wisconsin","11-3",1032,"8","tony-parks",16
+11,"Oklahoma State","10-3",920,"13","tony-parks",16
+12,"Stanford","10-3",730,"16","tony-parks",16
+13,"Virginia Tech","10-4",610,"18","tony-parks",16
+14,"Florida","9-4",640,"20","tony-parks",16
+15,"LSU","8-4",651,"19","tony-parks",16
+16,"Colorado","10-4",585,"11","tony-parks",16
+17,"Western Michigan","13-1",619,"12","tony-parks",16
+18,"West Virginia","10-3",368,"14","tony-parks",16
+19,"Louisville","9-4",277,"15","tony-parks",16
+20,"South Florida","11-2",358,"25","tony-parks",16
+21,"Tennessee","9-4",253,"-","tony-parks",16
+22,"Miami","9-4",338,"-","tony-parks",16
+23,"Utah","9-4",222,"-","tony-parks",16
+24,"Auburn","8-5",206,"17","tony-parks",16
+25,"San Diego State","11-3",113,"-","tony-parks",16
